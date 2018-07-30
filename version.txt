@@ -1,9 +1,9 @@
-Last updated: 2018-07-30 19:31:40 +0000
+Last updated: 2018-07-30 19:57:21 +0000
 
 Latest commit:
-    commit 2e5ca19350bba0f858885e0779208e12700a0dd3
-    Author: Chandu199 <n.chandrakanth0@gmail.com>
-    Date:   Mon Jul 30 11:04:31 2018 +0530
+    commit 68cbd1a789a4737cc08353d0c8e0f431c49eb45a
+    Author: Aravind SV <mail@arvindsv.com>
+    Date:   Mon Jul 30 15:54:31 2018 -0400
     
-        update on the site changes as per mockup
+        Change copyright year
     
