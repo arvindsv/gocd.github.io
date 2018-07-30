@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html lang="en">
   <head>
     <meta content="IE=edge" http-equiv="X-UA-Compatible" />
     <meta charset="utf-8" />
@@ -10,66 +10,72 @@
     <meta name="twitter:site" content="@goforcd" />
     <meta name="twitter:title" content="Feature Branch Support | GoCD Blog" />
     <meta name="twitter:description" content="GoCD is open source continuous delivery software. GoCD supports GitHub Pull Request and this blog post has more details about the feature." />
-    <meta name="twitter:image" content="http://preview.gocd.io/assets/images/blog/feature-branch/update-status-1.png" />
+    <meta name="twitter:image" content="http://localhost:4567/assets/images/blog/feature-branch/update-status-1-b1d0e5b3.png" />
+    <link rel="canonical" href="http://localhost:4567/2015/04/27/Feature-Branch-Support.html" />
 
     <title>Feature Branch Support | GoCD Blog</title>
     <link href="../../../assets/images/favicon.ico" rel="shortcut icon" />
-    <link href="../../../assets/stylesheets/site.css" rel="stylesheet" />
-    <script src="../../../assets/javascripts/all.js"></script>
+    <link href="../../../assets/stylesheets/site-c5ba96af.css" rel="stylesheet" />
+    <script src="../../../assets/javascripts/all-4311e8ab.js"></script>
     
     <link rel="alternate" type="application/atom+xml" title="GoCD blog feed" href="../../../feed.xml" />
+    <script>
+      $(document).ready(function(){
+    $('.chocolat-parent').Chocolat();
+});
+    </script>
   </head>
 
   <body class="x2015 x2015_04 x2015_04_27 x2015_04_27_Feature-Branch-Support">
     <header class="top">
   <div class="container">
-    <a class="logo" analytics-label="logo" href="../../../"><img title="GoCD Logo" alt="GoCD Logo" src="../../../assets/images/go_logo.svg" /></a>
+    <a href="../../../" class="logo" analytics-label="logo"><img src="../../../assets/images/go_logo-5b5ca9e1.svg" title="GoCD Logo" alt="GoCD Logo" /></a>
     <nav class="mainnav">
       <ul class="level0">
-        <li class="dropdown">
-          <a class="link_whygocd" analytics-label="link_whygocd" href="../../../why-gocd/">Why GoCD?</a>
-        </li>
-        <li class="dropdown">
-          <a class="toplink_contribute" analytics-label="link_community" href="../../../contribute/">Community</a>
-          <ul  class="level1">
-            <li><a class="link_contribute" analytics-label="link_community&gt;link_contribute" href="../../../contribute/">Contribute</a></li>
-            <li><a class="link_events" analytics-label="link_community&gt;link_events" href="../../../events/">Events</a></li>
-            <li><a class="link_plugins" analytics-label="link_community&gt;link_plugins" href="../../../plugins/">Plugins</a></li>
+        <li><a href="../../../why-gocd/" class="link_whygocd" analytics-label="link_whygocd">Features</a></li>
+        <li><a href="../../../resources.html" class="link_documentation" analytics-label="link_help&gt;link_documentation">Documentation</a></li>
+        <li><a href="../../../blog/" class="link_blog" analytics-label="Blog">Blog</a></li>
+
+        <li class="dropdown"><a href="../../../enterprise/" class="link_enterprise" analytics-label="Enterprise">Enterprise</a>
+          <ul class="level1 mobile-nav">
+            <li><a href="../../../enterprise/" class="link_overview">Overview</a></li>
+            <li><a href="../../../enterprise/addons/" class="link_addons">Add-ons</a></li>
+            <li><a href="../../../enterprise/support/" class="link_support">Support</a></li>
+            <li><a href="../../../enterprise/pricing/" class="link_pricing">Pricing</a></li>
+            <li><a href="../../../enterprise/contact/" class="link_contact">Contact</a></li>
           </ul>
         </li>
-        <li><a class="link_blog" analytics-label="Blog" href="../../../blog/">Blog</a></li>
-        <li class="dropdown">
-          <a class="toplink_help" analytics-label="link_help" href="../../../help/">Help</a>
-          <ul  class="level1">
-            <li><a class="getting-started" analytics-label="link_help&gt;link_getting_started" href="../../../help/">Getting started</a></li>
-            <li><a target="_blank" analytics-label="link_help&gt;link_documentation" href="https://docs.gocd.io/current/">Documentation</a></li>
-            <li><a class="link_resources" analytics-label="link_help&gt;link_resources" href="../../../resources.html">Resources</a></li>
-          </ul>
-        </li>
-        <li><a class="link_download" analytics-label="link_help&gt;link_download" href="../../../download/">Download</a></li>
-        <li><a class="link_support" target="_blank" analytics-label="link_support" href="https://www.thoughtworks.com/go">Get Support</a></li>
+        <li><a href="../../../download/" class="download" analytics-label="Download">Download</a></li>
       </ul>
     </nav>
     <button class="navbtn menu collapse">
     <span></span>
     </button>
   </div>
+
 </header>
 <span id="top"></span>
-<a class="github-fork-ribbon" target="_blank" analytics-label="link_header_fork&gt;link_download" title="Fork me on GitHub" href="http://github.com/gocd">Fork me on GitHub</a>
 
     <div class="container blog-post">
 
+
   
 
-  <header class="blog-post-header">
-    <h2>Feature Branch Support</h2>
-    <h4>GoCD Team</h4>
-  </header>
+
 
   <div class="row">
     <div class="col-md-9">
-      <main id="main" role="main">
+
+
+
+  <header class="blog-post-header">
+    <h1>Feature Branch Support</h1>
+    <h4>GoCD Team</h4>
+    <p class='tags'>
+     </p>
+  </header>
+
+      <main id="main" role="main" class="blog-post-main-container">
       <p>GoCD 15.1 introduced support for writing material repository plugins, to extend the kind of source code material
 repositories that GoCD works with. This resulted in community-driven plugins developed for GoCD, to implement support for
 feature branches, with help from members of GoCD's core contributors. This blog post has information specifically about
@@ -86,7 +92,7 @@ increasing the number of tests they have results in a longer time to certify a b
 where running all the tests and generating installers can take hours:</p>
 
 <figure>
-  <img src="../../../assets/images/blog/feature-branch/mature-ci-cd-setup.png" class="has_border full_size" id="mature_ci_cd_setup" title="GoCD - Value Stream Map" alt="GoCD - Value Stream Map" />
+  <img src="../../../assets/images/blog/feature-branch/mature-ci-cd-setup-f94937bf.png" class="has_border full_size" id="mature_ci_cd_setup" title="GoCD - Value Stream Map" alt="GoCD - Value Stream Map" />
   <figcaption>Figure 1: GoCD - Value Stream Map <span class="click_to_enlarge">(Click to enlarge)</span></figcaption>
 </figure>
 
@@ -94,7 +100,7 @@ where running all the tests and generating installers can take hours:</p>
 commits ready to go in have to wait until the failed build is fixed:</p>
 
 <figure>
-  <img src="../../../assets/images/blog/feature-branch/failed-build.png" class="has_border full_size" id="failed_build" title="Failed build stops everything" alt="Failed build stops everything" />
+  <img src="../../../assets/images/blog/feature-branch/failed-build-bb7a251d.png" class="has_border full_size" id="failed_build" title="Failed build stops everything" alt="Failed build stops everything" />
   <figcaption>Figure 2: Failed build stops everything <span class="click_to_enlarge">(Click to enlarge)</span></figcaption>
 </figure>
 
@@ -130,8 +136,8 @@ you have more hardware (agents) to run branch builds.</p>
 
 <h3 id="the-way-forward">The way forward</h3>
 
-<p>Assuming you have chosen the approach mentioned above, you can now use GoCD 15.1, with its two new extension points - <a href="https://docs.gocd.io/15.1.0/extension_points/scm_extension.html">SCM
-end-point</a> and the <a href="https://docs.gocd.io/15.1.0/extension_points/notification_extension.html">Notification
+<p>Assuming you have chosen the approach mentioned above, you can now use GoCD 15.1, with its two new extension points - <a href="https://docs.gocd.org/15.1.0/extension_points/scm_extension.html">SCM
+end-point</a> and the <a href="https://docs.gocd.org/15.1.0/extension_points/notification_extension.html">Notification
 end-point</a>, to test feature
 branches before they are merged.</p>
 
@@ -142,7 +148,7 @@ responsible for polling a configured repository for changes, while the second on
 responsible for notifying GitHub about the suitability of a Pull Request for merging.</p>
 
 <p><strong>Note</strong>: Even though this post specifically mentions GitHub only, plugins have been written to work with plain Git,
-Atlassian Stash, Gerrit and more! See the <a href="http://www.gocd.io/community/plugins.html#notification-plugins">GoCD community plugins
+Atlassian Stash, Gerrit and more! See the <a href="http://www.gocd.org/community/plugins.html#notification-plugins">GoCD community plugins
 page</a> for more information.</p>
 
 <h3 id="quick-setup">Quick Setup</h3>
@@ -157,7 +163,7 @@ page</a> for more information.</p>
 </ul>
 
 <figure>
-  <img src="../../../assets/images/blog/feature-branch/plugins-loaded.png" class="has_border full_size" id="verify_plugins" title="Verify Plugins" alt="Verify Plugins" />
+  <img src="../../../assets/images/blog/feature-branch/plugins-loaded-9903d601.png" class="has_border full_size" id="verify_plugins" title="Verify Plugins" alt="Verify Plugins" />
   <figcaption>Figure 3: Verify Plugins <span class="click_to_enlarge">(Click to enlarge)</span></figcaption>
 </figure>
 
@@ -175,7 +181,7 @@ build never gets deployed into production, by mistake.</p>
     <p>Suppose you have a setup of three pipelines like this:</p>
 
     <figure>
-    <img src="../../../assets/images/blog/feature-branch/setup.png" class="full_size" id="example_setup" title="Example setup" alt="Example setup of 3 pipelines" />
+    <img src="../../../assets/images/blog/feature-branch/setup-90ad35f1.png" class="full_size" id="example_setup" title="Example setup" alt="Example setup of 3 pipelines" />
     <figcaption>Figure 4: Example setup <span class="click_to_enlarge">(Click to enlarge)</span></figcaption>
   </figure>
 
@@ -183,14 +189,14 @@ build never gets deployed into production, by mistake.</p>
   to look like this:</p>
 
     <figure>
-    <img src="../../../assets/images/blog/feature-branch/with_prs.png" class="full_size" id="create_pipelines" title="Extract templates, create pipelines for PR" alt="Extract templates, create pipelines for PR" />
+    <img src="../../../assets/images/blog/feature-branch/with_prs-6626da92.png" class="full_size" id="create_pipelines" title="Extract templates, create pipelines for PR" alt="Extract templates, create pipelines for PR" />
     <figcaption>Figure 5: Extract templates, create pipelines for PR <span class="click_to_enlarge">(Click to enlarge)</span></figcaption>
   </figure>
 
     <p>Based on your decision, extract templates and create the new pipelines:</p>
 
     <figure>
-    <img src="../../../assets/images/blog/feature-branch/extract-template.png" class="has_border full_size" id="extract_template" title="Extract template" alt="Extract template" />
+    <img src="../../../assets/images/blog/feature-branch/extract-template-cfd29320.png" class="has_border full_size" id="extract_template" title="Extract template" alt="Extract template" />
     <figcaption>Figure 6: Extract template <span class="click_to_enlarge">(Click to enlarge)</span></figcaption>
   </figure>
   </li>
@@ -199,12 +205,12 @@ build never gets deployed into production, by mistake.</p>
 the GitHub material (this material is provided by the GitHub poller plugin installed earlier):</p>
 
     <figure>
-    <img src="../../../assets/images/blog/feature-branch/replace-material-1.png" class="has_border full_size" id="add_github_material" title="Add GitHub material" alt="Add GitHub material" />
+    <img src="../../../assets/images/blog/feature-branch/replace-material-1-0c4f6bbf.png" class="has_border full_size" id="add_github_material" title="Add GitHub material" alt="Add GitHub material" />
     <figcaption>Figure 7: Add GitHub material <span class="click_to_enlarge">(Click to enlarge)</span></figcaption>
   </figure>
 
     <figure>
-    <img src="../../../assets/images/blog/feature-branch/replace-material-2.png" class="has_border full_size" id="add_github_material_details" title="Add GitHub material - Details" alt="Add GitHub material - Details" />
+    <img src="../../../assets/images/blog/feature-branch/replace-material-2-afc048ab.png" class="has_border full_size" id="add_github_material_details" title="Add GitHub material - Details" alt="Add GitHub material - Details" />
     <figcaption>Figure 8: Add GitHub material - Details <span class="click_to_enlarge">(Click to enlarge)</span></figcaption>
   </figure>
 
@@ -221,7 +227,7 @@ the GitHub material (this material is provided by the GitHub poller plugin insta
     <p>GoCD will trigger builds for every new Pull Request and for new commits to existing Pull Requests:</p>
 
     <figure>
-    <img src="../../../assets/images/blog/feature-branch/trigger-build.png" class="has_border full_size" id="pr_triggers_build" title="PR triggers build" alt="PR triggers build" />
+    <img src="../../../assets/images/blog/feature-branch/trigger-build-aa3c586e.png" class="has_border full_size" id="pr_triggers_build" title="PR triggers build" alt="PR triggers build" />
     <figcaption>Figure 9: PR triggers build <span class="click_to_enlarge">(Click to enlarge)</span></figcaption>
   </figure>
   </li>
@@ -229,12 +235,12 @@ the GitHub material (this material is provided by the GitHub poller plugin insta
     <p>GoCD will update Pull Request in GitHub with the build status:</p>
 
     <figure>
-    <img src="../../../assets/images/blog/feature-branch/update-status-1.png" class="has_border full_size" id="github_pr_update" title="GitHub PR page gets updated" alt="GitHub PR page gets updated" />
+    <img src="../../../assets/images/blog/feature-branch/update-status-1-b1d0e5b3.png" class="has_border full_size" id="github_pr_update" title="GitHub PR page gets updated" alt="GitHub PR page gets updated" />
     <figcaption>Figure 10: GitHub PR page gets updated <span class="click_to_enlarge">(Click to enlarge)</span></figcaption>
   </figure>
 
     <figure>
-    <img src="../../../assets/images/blog/feature-branch/update-status-2.png" class="has_border full_size" id="github_pr_list_update" title="GitHub PR listing page gets updated" alt="GitHub PR listing page gets updated" />
+    <img src="../../../assets/images/blog/feature-branch/update-status-2-f94045e6.png" class="has_border full_size" id="github_pr_list_update" title="GitHub PR listing page gets updated" alt="GitHub PR listing page gets updated" />
     <figcaption>Figure 11: GitHub PR listing page gets updated <span class="click_to_enlarge">(Click to enlarge)</span></figcaption>
   </figure>
   </li>
@@ -242,7 +248,7 @@ the GitHub material (this material is provided by the GitHub poller plugin insta
     <p>Fan-in and Value Stream Map work as expected:</p>
 
     <figure>
-    <img src="../../../assets/images/blog/feature-branch/vsm.png" class="has_border full_size" id="vsm_works" title="Fan-in and VSM work" alt="Fan-in and VSM work" />
+    <img src="../../../assets/images/blog/feature-branch/vsm-59138517.png" class="has_border full_size" id="vsm_works" title="Fan-in and VSM work" alt="Fan-in and VSM work" />
     <figcaption>Figure 12: Fan-in and VSM work <span class="click_to_enlarge">(Click to enlarge)</span></figcaption>
   </figure>
   </li>
@@ -395,68 +401,59 @@ img.has_border {
     <div class="col-md-3">
       <aside class="post-sidebar">
         <section  class="recent-ariticles">
+          <section class='post'>
+            <div class='subscribe-to-blog blogpost'>
+   <h3 class='subscribe-title'>Subscribe to The Pipeline</h3>
+   <p style="font-size:12px; font-weight:300">A bi-monthly newsletter with continuous delivery news and events.</p>
+    <div id="subscribe-info">
+      <form id="mktoForm_5414"></form>
+      <div class="form-loading-error"></div>
+    </div>
+    <script defer="true" src="//app-e.marketo.com/js/forms2/js/forms2.min.js"></script>
+    <script defer="true" src="../../../assets/javascripts/marketo_popover-2ee090ae.js" onload="new MarketoForm().init(5414)"></script>
+</div>
+
+          </section>
           <h2 class="section-title">Recent Articles</h2>
           <ol>
             <li>
-              <span class="post-date">Jul 13</span>
-              <span class="post-author">Jason Rowe</span>
-              <a href="../../../2016/07/13/DotNet-Core-and-GoCD/">.NET Core and GoCD</a>
+              <span class="post-date">Jul 24</span>
+              <span class="post-author">GoCD Team</span>
+              <a href="../../../2018/07/24/gocd-usage-analytics/">Improving GoCD through usage analytics</a>
             </li>
             <li>
-              <span class="post-date">Jun 21</span>
-              <span class="post-author">Jeff Norris</span>
-              <a href="../../../2016/06/21/dont-let-sunk-costs-sink-your-project/">Don't let sunk costs sink your project</a>
+              <span class="post-date">Jul 17</span>
+              <span class="post-author">Ankit Srivastava</span>
+              <a href="../../../2018/07/17/gocd-materials-blacklisting-whitelisting/">How to Work with Materials in GoCD</a>
             </li>
             <li>
-              <span class="post-date">Jun  8</span>
-              <span class="post-author">Ken Mugrage</span>
-              <a href="../../../2016/06/08/Add-performance-testing-to-your-Continuous-Delivery-pipeline/">Add performance testing to your Continuous Delivery pipeline</a>
+              <span class="post-date">Jul 11</span>
+              <span class="post-author">Sheroy Marker</span>
+              <a href="../../../2018/07/11/cd-microservices-configuration-strategy/">Configuration Strategy for Continuous Delivery of Microservices</a>
             </li>
             <li>
-              <span class="post-date">Mar 24</span>
-              <span class="post-author">David Rice</span>
-              <a href="../../../2016/03/24/how-to-avoid-brittle-code/">How to Avoid Brittle Code</a>
+              <span class="post-date">Jun 12</span>
+              <span class="post-author">Sheroy Marker</span>
+              <a href="../../../2018/06/12/cd-microservices-environment-strategy/">Environment Strategy for Continuous Delivery of Microservices</a>
             </li>
             <li>
-              <span class="post-date">Mar 15</span>
-              <span class="post-author">David Rice</span>
-              <a href="../../../2016/03/15/are-you-ready-for-continuous-delivery-part-2-feedback-loops/">Are you ready for Continuous Delivery? Part 2: Feedback loops</a>
-            </li>
-            <li>
-              <span class="post-date">Feb  8</span>
-              <span class="post-author">Ken Mugrage</span>
-              <a href="../../../2016/02/08/not-done-unless-its-done-security/">Add Security Testing to Your Deployment Pipelines</a>
-            </li>
-            <li>
-              <span class="post-date">Jan 25</span>
-              <span class="post-author">David Rice and Aravind SV</span>
-              <a href="../../../2016/01/25/are-you-ready-for-continuous-delivery/">Are you ready for Continuous Delivery?</a>
-            </li>
-            <li>
-              <span class="post-date">Jan 17</span>
-              <span class="post-author">Ken Mugrage</span>
-              <a href="../../../2016/01/17/not-done-unless-its-done/">It's not Continuous Delivery if you can't deploy right now.</a>
-            </li>
-            <li>
-              <span class="post-date">Dec 28</span>
-              <span class="post-author">Nenad Bozic</span>
-              <a href="../../12/28/gocd-continuous-delivery-through-pipelines/">Guest post: GoCD - Continuous Delivery through pipelines</a>
-            </li>
-            <li>
-              <span class="post-date">Dec 22</span>
-              <span class="post-author">Aravind SV</span>
-              <a href="../../12/22/gocd-in-2016/">Roadmap - GoCD in 2016</a>
+              <span class="post-date">May 30</span>
+              <span class="post-author">Sheroy Marker</span>
+              <a href="../../../2018/05/30/ci-microservices-feature-toggles-trunk-based-development/">Continuous Delivery of Microservices - Trunk Based Development and Feature Toggles</a>
             </li>
           </ol>
         </section>
         <section>
           <h2 class="section-title">By Year</h2>
           <ol>
+            <li><a href="../../../2018/">2018 (12)</a></li>
+            <li><a href="../../../2017/">2017 (39)</a></li>
             <li><a href="../../../2016/">2016 (8)</a></li>
             <li><a href="../../">2015 (21)</a></li>
             <li><a href="../../../2014/">2014 (26)</a></li>
           </ol>
         </section>
+
       </aside>
     </div>
   </div>
@@ -490,57 +487,91 @@ img.has_border {
 
     <footer>
   <div class="join-community">
-    <div class="container">
-      <h3>Join our community</h3>
-      <ul>
-        <li>
-          <a href="https://groups.google.com/forum/#!forum/go-cd" target="_blank" analytics-label="google-group">
-            <i class="icon fa fa-users fa-4x join-us" aria-hidden="true"></i>
-            Join our discussion forum
-          </a>
-        </li>
-        <li>
-          <a href="https://gitter.im/gocd/gocd" target="_blank" analytics-label="gitter">
-            <i class="icon fa fa-comments fa-4x develop-with-us" aria-hidden="true"></i>
-           Chat with us
-          </a>
-        </li>
-        <li>
-          <a href="https://github.com/gocd/gocd" target="_blank" analytics-label="github">
-            <i class="icon fa fa-github fa-4x watch-us" aria-hidden="true"></i>
-            watch us
-          </a>
-        </li>
-        <li>
-          <a href="https://twitter.com/goforcd" target="_blank" analytics-label="twitter">
-            <i class="icon fa fa-twitter fa-4x follow-us" aria-hidden="true"></i>
-            follow us
-          </a>
-        </li>
-        <li>
-          <a href="../../../subscribe/"><i class='icon fa fa-envelope fa-4x subscribe' aria-hidden='true'></i>subscribe</a>
-        </li>
-      </ul>
-    </div>
+    <ul>
+      <li>
+        <a href="https://groups.google.com/forum/#!forum/go-cd" target="_blank" analytics-label="google-group">
+          <i class="icon fa fa-users fa-4x join-us" aria-hidden="true"></i>
+          <span>Join our discussion forum</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://gitter.im/gocd/gocd" target="_blank" analytics-label="gitter">
+          <i class="icon fa fa-comments fa-4x develop-with-us" aria-hidden="true"></i>
+         <span>Chat with us</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/gocd/gocd" target="_blank" analytics-label="github">
+          <i class="icon fa fa-github fa-4x watch-us" aria-hidden="true"></i>
+          <span>watch us</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://twitter.com/goforcd" target="_blank" analytics-label="twitter">
+          <i class="icon fa fa-twitter fa-4x follow-us" aria-hidden="true"></i>
+          <span>follow us</span>
+        </a>
+      </li>
+
+      <li>
+      <a href="../../../subscribe/"><i class= 'icon fa fa-envelope fa-4x subscribe' aria-hidden='true'></i> <span>subscribe</span></a>
+      </li>
+    </ul>
   </div>
+
   <div class="page-footer">
     <div class="container">
-      <div class="foo-content">
-        <h5 class="help-us-improve">Make this place better</h5>
-        <a href="http://github.com/gocd" class="social-buttons" analytics-label="link_footer_fork"><i class="fa fa-code-fork" aria-hidden="true" target="_blank"></i> fork</a>
-        <a href="https://github.com/gocd/www.go.cd/issues"  class="social-buttons" analytics-label="link_footer_github_issues"> <i class="fa fa-github" aria-hidden="true"></i> suggest</a>
-        <p>
-          GoCD is an open-source project, sponsored by <a target="_blank" href="http://www.thoughtworks.com" analytics-label="link_footer_thoughtworks">ThoughtWorks Inc.</a>
-          under the <a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank" title="Apache 2.0 License">Apache License, Version 2.0</a>
-        </p>
+      <div class="row">
+        <div class="col-md-2">
+          <ul class="unordered-list">
+            <li><a href="../../../download/">DOWNLOAD GoCD</a></li>
+            <li><a href="../../../getting-started/part-1/">GETTING STARTED</a></li>
+            <li><a href="../../../plugins/">PLUGINS</a></li>
+          </ul>
+        </div>
+
+        <div class="col-md-2">
+          <ul class="unordered-list">
+            <li> <a href="../../../events/">WEBINARS + EVENTS</a></li>
+            <li><a href="../../../resources/">RESOURCES</a></li>
+            <li><a href="../../../contribute/">CONTRIBUTE</a></li>
+          </ul>
+        </div>
+
+        <div class="col-md-2">
+          <ul class="unordered-list">
+            <li><a href="https://www.github.com/gocd" target="_blank">FORK US ON GITHUB</a></li>
+            <li><a href="https://brandfolder.com/twproducts">LOGOS + BRAND</a> </li>
+            <li><a href="https://www.thoughtworks.com/privacy-policy">PRIVACY</a> </li>
+          </ul>
+        </div>
+
+        <div class="col-md-2">
+          <ul class="unordered-list">
+            <li><a href="../../../enterprise/support/">ENTERPRISE SUPPORT</a> </li>
+            <li><a href="https://support.thoughtworks.com/hc/en-us/requests/new" target="_blank">SUBMIT A TICKET</a></li>
+          </ul>
+        </div>
+
+        <div class="col-md-4">
+          <p>
+            GoCD is an open-source project, sponsored by <a target="_blank" href="https://www.thoughtworks.com" analytics-label="link_footer_thoughtworks">ThoughtWorks Inc.</a>
+            under the <a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank" title="Apache 2.0 License">Apache License, Version 2.0</a>
+          </p>
+        </div>
       </div>
     </div>
   </div>
 </footer>
-<a href="#top" class="back-top"><i class="fa fa-arrow-circle-up"></i></a>
+
+    <div class='imagemodal'>
+      <div class='imagemodalcontent'>
+      </div>
+      <div class='close'>&#10006;
+      </div>
+    </div>
 
   </body>
-
   <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5T5PTB"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -555,11 +586,40 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 <!-- End Google Tag Manager -->
 
-<!-- Marketo -->
+<!-- Marketo async-->
 <script type="text/javascript">
-document.write(unescape("%3Cscript src='//munchkin.marketo.net/munchkin.js' type='text/javascript'%3E%3C/script%3E"));
+(function() {
+  var didInit = false;
+  function initMunchkin() {
+    if(didInit === false) {
+      didInit = true;
+      Munchkin.init('199-QDE-291');
+    }
+  }
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//munchkin.marketo.net/munchkin.js';
+  s.onreadystatechange = function() {
+    if (this.readyState == 'complete' || this.readyState == 'loaded') {
+      initMunchkin();
+    }
+  };
+  s.onload = initMunchkin;
+  document.getElementsByTagName('head')[0].appendChild(s);
+})();
 </script>
-<script>Munchkin.init('199-QDE-291');</script>
-<!-- End Marketo -->
+<!-- End Marketo async-->
+
+<!-- Twitter universal website tag code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','nw15k');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
 
 </html>

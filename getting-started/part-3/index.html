@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html lang="en">
   <head>
     <meta content="IE=edge" http-equiv="X-UA-Compatible" />
     <meta charset="utf-8" />
@@ -10,53 +10,51 @@
     <meta name="twitter:site" content="@goforcd" />
     <meta name="twitter:title" content="Help - Getting Started with GoCD Part Three | GoCD" />
     <meta name="twitter:description" content="New to GoCD - open source continuous delivery software? Learn about some of GoCD's concepts and features, and get the chance to try them out on a real server." />
-    <meta name="twitter:image" content="http://preview.gocd.io/assets/images/gocd_continuous_delivery_thoughtworks_twitter.jpg" />
+    <meta name="twitter:image" content="http://localhost:4567/assets/images/gocd_continuous_delivery_thoughtworks_twitter-e8d93d6f.jpg" />
+    <link rel="canonical" href="http://localhost:4567/getting-started/part-3" />
 
     <title>Help - Getting Started with GoCD Part Three | GoCD</title>
     <link href="../../assets/images/favicon.ico" rel="shortcut icon" />
-    <link href="../../assets/stylesheets/site.css" rel="stylesheet" />
-    <script src="../../assets/javascripts/all.js"></script>
+    <link href="../../assets/stylesheets/site-c5ba96af.css" rel="stylesheet" />
+    <script src="../../assets/javascripts/all-4311e8ab.js"></script>
     
     <link rel="alternate" type="application/atom+xml" title="GoCD blog feed" href="../../feed.xml" />
+    <script>
+      $(document).ready(function(){
+    $('.chocolat-parent').Chocolat();
+});
+    </script>
   </head>
 
   <body class="getting-started getting-started_part-3 getting-started_part-3_index">
     <header class="top">
   <div class="container">
-    <a class="logo" analytics-label="logo" href="../../"><img title="GoCD Logo" alt="GoCD Logo" src="../../assets/images/go_logo.svg" /></a>
+    <a href="../../" class="logo" analytics-label="logo"><img src="../../assets/images/go_logo-5b5ca9e1.svg" title="GoCD Logo" alt="GoCD Logo" /></a>
     <nav class="mainnav">
       <ul class="level0">
-        <li class="dropdown">
-          <a class="link_whygocd" analytics-label="link_whygocd" href="../../why-gocd/">Why GoCD?</a>
-        </li>
-        <li class="dropdown">
-          <a class="toplink_contribute" analytics-label="link_community" href="../../contribute/">Community</a>
-          <ul  class="level1">
-            <li><a class="link_contribute" analytics-label="link_community&gt;link_contribute" href="../../contribute/">Contribute</a></li>
-            <li><a class="link_events" analytics-label="link_community&gt;link_events" href="../../events/">Events</a></li>
-            <li><a class="link_plugins" analytics-label="link_community&gt;link_plugins" href="../../plugins/">Plugins</a></li>
+        <li><a href="../../why-gocd/" class="link_whygocd" analytics-label="link_whygocd">Features</a></li>
+        <li><a href="../../resources.html" class="link_documentation" analytics-label="link_help&gt;link_documentation">Documentation</a></li>
+        <li><a href="../../blog/" class="link_blog" analytics-label="Blog">Blog</a></li>
+
+        <li class="dropdown"><a href="../../enterprise/" class="link_enterprise" analytics-label="Enterprise">Enterprise</a>
+          <ul class="level1 mobile-nav">
+            <li><a href="../../enterprise/" class="link_overview">Overview</a></li>
+            <li><a href="../../enterprise/addons/" class="link_addons">Add-ons</a></li>
+            <li><a href="../../enterprise/support/" class="link_support">Support</a></li>
+            <li><a href="../../enterprise/pricing/" class="link_pricing">Pricing</a></li>
+            <li><a href="../../enterprise/contact/" class="link_contact">Contact</a></li>
           </ul>
         </li>
-        <li><a class="link_blog" analytics-label="Blog" href="../../blog/">Blog</a></li>
-        <li class="dropdown">
-          <a class="toplink_help" analytics-label="link_help" href="../../help/">Help</a>
-          <ul  class="level1">
-            <li><a class="getting-started" analytics-label="link_help&gt;link_getting_started" href="../../help/">Getting started</a></li>
-            <li><a target="_blank" analytics-label="link_help&gt;link_documentation" href="https://docs.gocd.io/current/">Documentation</a></li>
-            <li><a class="link_resources" analytics-label="link_help&gt;link_resources" href="../../resources.html">Resources</a></li>
-          </ul>
-        </li>
-        <li><a class="link_download" analytics-label="link_help&gt;link_download" href="../../download/">Download</a></li>
-        <li><a class="link_support" target="_blank" analytics-label="link_support" href="https://www.thoughtworks.com/go">Get Support</a></li>
+        <li><a href="../../download/" class="download" analytics-label="Download">Download</a></li>
       </ul>
     </nav>
     <button class="navbtn menu collapse">
     <span></span>
     </button>
   </div>
+
 </header>
 <span id="top"></span>
-<a class="github-fork-ribbon" target="_blank" analytics-label="link_header_fork&gt;link_download" title="Fork me on GitHub" href="http://github.com/gocd">Fork me on GitHub</a>
 
     <div class="inner-banner">
   <div class="container">
@@ -69,40 +67,40 @@
     
 <div class="col-md-3 sidebar">
   <button class="get-start-btn"><i class="fa fa-bars"></i></button>
-  <nav class="getting-started-nav">
+  <nav class="sidebar-nav getting-started-nav">
     <h5>Getting started <span class="close-nav">X</span></h5>
 
     <ul class="verticalnav">
       <li class="dropdown dropdown-menu">
         <a href="#" class="active">Part 1</a>
         <ul>
-          <li><a data-section="#installation" data-dest="../part-1/" data-is-local="false" href="#">Installation</a></li>
-          <li><a class="active" data-section="#concept1" data-dest="../part-1/" data-is-local="false" href="#"><strong>Concept 1:</strong>Server and agents</a></li>
-          <li><a data-section="#concept2" data-dest="../part-1/" data-is-local="false" href="#"><strong>Concept 2:</strong>Pipelines and materials</a></li>
-          <li><a data-section="#concept3" data-dest="../part-1/" data-is-local="false" href="#"><strong>Concept 3:</strong>Agent prepares to do some work</a></li>
-          <li><a data-section="#concept4" data-dest="../part-1/" data-is-local="false" href="#"><strong>Concept 4:</strong>Stages, jobs and tasks </a></li>
+          <li><a href="#" data-section="#installation" data-dest="../part-1/" data-is-local="false">Installation</a></li>
+          <li><a href="#" class="active" data-section="#concept1" data-dest="../part-1/" data-is-local="false"><strong>Concept 1:</strong>Server and agents</a></li>
+          <li><a href="#" data-section="#concept2" data-dest="../part-1/" data-is-local="false"><strong>Concept 2:</strong>Pipelines and materials</a></li>
+          <li><a href="#" data-section="#concept3" data-dest="../part-1/" data-is-local="false"><strong>Concept 3:</strong>Agent prepares to do some work</a></li>
+          <li><a href="#" data-section="#concept4" data-dest="../part-1/" data-is-local="false"><strong>Concept 4:</strong>Stages, jobs and tasks </a></li>
         </ul>
       </li>
       <li class="dropdown dropdown-menu">
         <a href="#">Part 2</a>
         <ul>
-          <li><a data-section="#pipeline_as_material" data-dest="../part-2/" data-is-local="false" href="#">Using a pipeline as a material</a></li>
-          <li><a data-section="#concept_pipeline_dependency_material" data-dest="../part-2/" data-is-local="false" href="#"><strong>Concept 5:</strong>  Pipeline Dependency Material </a></li>
-          <li><a data-section="#using_artifacts" data-dest="../part-2/" data-is-local="false" href="#">Publishing, fetching and using artifacts</a></li>
-          <li><a data-section="#concept_artifact" data-dest="../part-2/" data-is-local="false" href="#"><strong>Concept 6:</strong>Artifact </a></li>
-          <li><a data-section="#fetching_using_artifacts" data-dest="../part-2/" data-is-local="false" href="#">Fetching and using artifacts</a></li>
-          <li><a data-section="#concept_ancestor_artifacts" data-dest="../part-2/" data-is-local="false" href="#"><strong>Concept 7:</strong>Ancestor artifacts and building artifacts only once </a></li>
-          <li><a data-section="#custom_tabs" data-dest="../part-2/" data-is-local="false" href="#">Custom tabs</a></li>
-          <li><a data-section="#concept_custom_tab" data-dest="../part-2/" data-is-local="false" href="#"><strong>Concept 8:</strong> Custom tab</a></li>
+          <li><a href="#" data-section="#pipeline_as_material" data-dest="../part-2/" data-is-local="false">Using a pipeline as a material</a></li>
+          <li><a href="#" data-section="#concept_pipeline_dependency_material" data-dest="../part-2/" data-is-local="false"><strong>Concept 5:</strong>  Pipeline Dependency Material </a></li>
+          <li><a href="#" data-section="#using_artifacts" data-dest="../part-2/" data-is-local="false">Publishing, fetching and using artifacts</a></li>
+          <li><a href="#" data-section="#concept_artifact" data-dest="../part-2/" data-is-local="false"><strong>Concept 6:</strong>Artifact </a></li>
+          <li><a href="#" data-section="#fetching_using_artifacts" data-dest="../part-2/" data-is-local="false">Fetching and using artifacts</a></li>
+          <li><a href="#" data-section="#concept_ancestor_artifacts" data-dest="../part-2/" data-is-local="false"><strong>Concept 7:</strong>Ancestor artifacts and building artifacts only once </a></li>
+          <li><a href="#" data-section="#custom_tabs" data-dest="../part-2/" data-is-local="false">Custom tabs</a></li>
+          <li><a href="#" data-section="#concept_custom_tab" data-dest="../part-2/" data-is-local="false"><strong>Concept 8:</strong> Custom tab</a></li>
         </ul>
       </li>
       <li class="dropdown open">
         <a href="#">Part 3</a>
         <ul>
-          <li><a data-section="#value_stream_map" data-dest="./" data-is-local="true" href="#">Value Stream Map (VSM)</a></li>
-          <li><a data-section="#concept_vsm" data-dest="./" data-is-local="true" href="#"><strong>Concept 9:</strong>  Value Stream Map </a></li>
-          <li><a data-section="#fan_out_fan_in" data-dest="./" data-is-local="true" href="#">Fan-Out and Fan-In</a></li>
-          <li><a data-section="#concept_fan_out_fan_in" data-dest="./" data-is-local="true" href="#"><strong>Concept 10:</strong>Fan-Out and Fan-In</a></li>
+          <li><a href="#" data-section="#value_stream_map" data-dest="./" data-is-local="true">Value Stream Map (VSM)</a></li>
+          <li><a href="#" data-section="#concept_vsm" data-dest="./" data-is-local="true"><strong>Concept 9:</strong>  Value Stream Map </a></li>
+          <li><a href="#" data-section="#fan_out_fan_in" data-dest="./" data-is-local="true">Fan-Out and Fan-In</a></li>
+          <li><a href="#" data-section="#concept_fan_out_fan_in" data-dest="./" data-is-local="true"><strong>Concept 10:</strong>Fan-Out and Fan-In</a></li>
         </ul>
       </li>
     </ul>
@@ -137,7 +135,7 @@
           </p>
 
           <figure>
-            <img title="Deployment Pipeline - Moving closer to production increases confidence of build's production" alt="Deployment Pipeline view shows that as you go closer to production, the confidence of the build's production readiness increases" src="../../assets/images/image01.png" />
+            <img src="../../assets/images/getting-started/part-3/deployment-pipeline1-19e8c39a.svg" title="Deployment Pipeline - Moving closer to production increases confidence of build's production" alt="Deployment Pipeline view shows that as you go closer to production, the confidence of the build's production readiness increases" />
             <figcaption>
               The idea is that, as you go closer to production, the confidence of the build's production readiness
               increases. (Image &copy; Humble, Farley)
@@ -145,7 +143,7 @@
           </figure>
 
           <figure>
-            <img title="Deployment Pipeline - Interactions between source code repositories, artifact repositories and different stages" alt="Image depicts the interactions between source code repositories, artifact repositories and different stages of the Deployment Pipeline." src="../../assets/images/image02.png" />
+            <img src="../../assets/images/getting-started/part-3/deployment-pipeline2-0a138975.svg" title="Deployment Pipeline - Interactions between source code repositories, artifact repositories and different stages" alt="Image depicts the interactions between source code repositories, artifact repositories and different stages of the Deployment Pipeline." />
             <figcaption>
               This depicts the interactions between source code repositories, artifact repositories and different stages
               of the Deployment Pipeline. (Image &copy; Humble, Farley)
@@ -157,7 +155,7 @@
           </p>
 
           <figure>
-            <img title="Representation of Value Stream Map in GoCD" alt="Go C D Value Stream Map representing the stages of deployment pipeline" src="../../assets/images/image03.png" />
+            <img src="../../assets/images/getting-started/part-3/valuestreammap-in-gocd-fb09ba15.svg" title="Representation of Value Stream Map in GoCD" alt="Go C D Value Stream Map representing the stages of deployment pipeline" />
           </figure>
 
           <p>
@@ -174,7 +172,7 @@
 
           <p>
             The previously defined concepts of a Pipeline, Artifact and Pipeline Dependency (chaining of pipelines) come
-            together to enable a true end-to-end Deployment Pipeline, which is known as a Value Stream Map (VSM) in GoCD. . The
+            together to enable a true end-to-end Deployment Pipeline, which is known as a Value Stream Map (VSM) in GoCD. The
             ability to do this, and so this concept is important because:
           </p>
 
@@ -201,33 +199,33 @@
         </section>
 
         <p>
-          To use a Value Stream Map in GoCD, you don't really need to do anything. If you've pipelines which use
+          To use a Value Stream Map in GoCD, you don't really need to do anything. If you have pipelines which use
           pipeline dependencies, then you can always get a VSM at the click of a button. Here is a dashboard view of
-          pipelines which map to the example shown in the concept. Clicking on the label (marked in red boxes) of any of
-          the pipelines shows the VSM from the perspective of that pipeline:
+          pipelines which map to the example shown in the concept. Clicking on the VSM link (marked in red boxes) in any of
+          the pipeline tiles shows the VSM from the perspective of that pipeline:
         </p>
         <figure>
-          <img title="The labels of pipelines: gateways to VSM" alt="The labels of pipelines - gateways to VSM" src="../../assets/images/getting-started/gateways-to-VSM.png" />
-          <figcaption>The labels of pipelines: gateways to VSM</figcaption>
+          <img src="../../assets/images/getting-started/part-3/1-gateways-to-vsm-0e9d70b0.png" title="The labels of pipelines: gateways to VSM" alt="The labels of pipelines - gateways to VSM" />
+          <figcaption>Navigating to the VSM</figcaption>
         </figure>
 
-        <p>Clicking on the label of the "Production" pipeline, takes you to its Value Stream Map, in which all of its upstream
+        <p>Clicking on the VSM link of the "Production" pipeline takes you to its Value Stream Map, in which all of its upstream
           pipelines and their source control materials are shown.</p>
 
         <figure>
-          <img title="VSM from the view of the Production pipeline" alt="VSM from the view of the Production pipeline" src="../../assets/images/getting-started/production-pipeline.png" />
+          <img src="../../assets/images/getting-started/part-3/2-vsm-of-production-pipeline-80c78046.png" title="VSM from the view of the Production pipeline" alt="VSM from the view of the Production pipeline" />
           <figcaption>VSM from the view of the "Production" pipeline</figcaption>
         </figure>
 
         <p>
-          Clicking on the label of the "Build" pipeline, either from the dashboard or the VSM view above, takes you to a
-          similar view with the perspective of the "Build" pipeline instance you clicked on. It is shown below. You can
+          Clicking on the VSM link of the "Build" pipeline, either from the dashboard or the VSM view above, takes you to a
+          similar view with the perspective of the "Build" pipeline instance. It is shown below. You can
           see that the source material of "CapacityTesting" pipeline is not shown, because it is not directly downstream
           of the "Build" pipeline.
         </p>
 
         <figure class="screenshot">
-          <img title="VSM from the view of the Build pipeline" alt="VSM from the view of the Build pipeline" src="../../assets/images/getting-started/build-pipeline.png" />
+          <img src="../../assets/images/getting-started/part-3/3-vsm-of-build-pipeline-8b12b538.png" title="VSM from the view of the Build pipeline" alt="VSM from the view of the Build pipeline" />
           <figcaption>VSM from the view of the "Build" pipeline</figcaption>
         </figure>
 
@@ -251,14 +249,14 @@
           </p>
 
           <figure>
-            <img title="Pipeline fanning out to downstream pipelines" alt="Pipeline fanning out to downstream pipelines" src="../../assets/images/image07.png" />
+            <img src="../../assets/images/getting-started/part-3/fan-out-b5681eff.svg" title="Pipeline fanning out to downstream pipelines" alt="Pipeline fanning out to downstream pipelines" />
           </figure>
           <p>
             Similarly, a source material can be said to fan-out to downstream pipelines:
           </p>
 
           <figure>
-            <img title="Source Material fanning out to downstream pipelines" alt="Source Material fanning out to downstream pipelines" src="../../assets/images/image08.png" />
+            <img src="../../assets/images/getting-started/part-3/valuestreammap-in-gocd-fb09ba15.svg" title="Source Material fanning out to downstream pipelines" alt="Source Material fanning out to downstream pipelines" />
           </figure>
           <p>
             This brings in the advantages of parallelization and quicker feedback, which is a key goal of Continuous Delivery. As
@@ -274,7 +272,7 @@
           </p>
 
           <figure>
-            <img title="Fanning In - Multiple dependencies used by a single pipeline" alt="image shows multiple dependencies used by a single pipeline as fanning in to the pipeline" src="../../assets/images/image09.png" />
+            <img src="../../assets/images/getting-started/part-3/valuestreammap-in-gocd-fb09ba15.svg" title="Fanning In - Multiple dependencies used by a single pipeline" alt="image shows multiple dependencies used by a single pipeline as fanning in to the pipeline" />
           </figure>
 
           <p>
@@ -292,7 +290,7 @@
         </p>
 
         <figure>
-          <img title="VSM with links pinned - showing fan-in" alt="VSM with links pinned - showing fan-in" src="../../assets/images/image10.png" />
+          <img src="../../assets/images/getting-started/part-3/4-pinned-vsm-with-links-8f4c5d92.png" title="VSM with links pinned - showing fan-in" alt="VSM with links pinned - showing fan-in" />
           <figcaption>VSM with links pinned - showing fan-in</figcaption>
         </figure>
 
@@ -351,7 +349,7 @@
 
         <p>
           This has been a bit of a whirlwind tour of some of GoCD's concepts and ideas. To learn more about all the
-          other features and how to use them, head on over to the <a href="https://docs.gocd.io/current/">GoCD
+          other features and how to use them, head on over to the <a href="https://docs.gocd.org/current/">GoCD
           documentation</a> page.
         </p>
       </div>
@@ -361,57 +359,91 @@
 
     <footer>
   <div class="join-community">
-    <div class="container">
-      <h3>Join our community</h3>
-      <ul>
-        <li>
-          <a href="https://groups.google.com/forum/#!forum/go-cd" target="_blank" analytics-label="google-group">
-            <i class="icon fa fa-users fa-4x join-us" aria-hidden="true"></i>
-            Join our discussion forum
-          </a>
-        </li>
-        <li>
-          <a href="https://gitter.im/gocd/gocd" target="_blank" analytics-label="gitter">
-            <i class="icon fa fa-comments fa-4x develop-with-us" aria-hidden="true"></i>
-           Chat with us
-          </a>
-        </li>
-        <li>
-          <a href="https://github.com/gocd/gocd" target="_blank" analytics-label="github">
-            <i class="icon fa fa-github fa-4x watch-us" aria-hidden="true"></i>
-            watch us
-          </a>
-        </li>
-        <li>
-          <a href="https://twitter.com/goforcd" target="_blank" analytics-label="twitter">
-            <i class="icon fa fa-twitter fa-4x follow-us" aria-hidden="true"></i>
-            follow us
-          </a>
-        </li>
-        <li>
-          <a href="../../subscribe/"><i class='icon fa fa-envelope fa-4x subscribe' aria-hidden='true'></i>subscribe</a>
-        </li>
-      </ul>
-    </div>
+    <ul>
+      <li>
+        <a href="https://groups.google.com/forum/#!forum/go-cd" target="_blank" analytics-label="google-group">
+          <i class="icon fa fa-users fa-4x join-us" aria-hidden="true"></i>
+          <span>Join our discussion forum</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://gitter.im/gocd/gocd" target="_blank" analytics-label="gitter">
+          <i class="icon fa fa-comments fa-4x develop-with-us" aria-hidden="true"></i>
+         <span>Chat with us</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/gocd/gocd" target="_blank" analytics-label="github">
+          <i class="icon fa fa-github fa-4x watch-us" aria-hidden="true"></i>
+          <span>watch us</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://twitter.com/goforcd" target="_blank" analytics-label="twitter">
+          <i class="icon fa fa-twitter fa-4x follow-us" aria-hidden="true"></i>
+          <span>follow us</span>
+        </a>
+      </li>
+
+      <li>
+      <a href="../../subscribe/"><i class= 'icon fa fa-envelope fa-4x subscribe' aria-hidden='true'></i> <span>subscribe</span></a>
+      </li>
+    </ul>
   </div>
+
   <div class="page-footer">
     <div class="container">
-      <div class="foo-content">
-        <h5 class="help-us-improve">Make this place better</h5>
-        <a href="http://github.com/gocd" class="social-buttons" analytics-label="link_footer_fork"><i class="fa fa-code-fork" aria-hidden="true" target="_blank"></i> fork</a>
-        <a href="https://github.com/gocd/www.go.cd/issues"  class="social-buttons" analytics-label="link_footer_github_issues"> <i class="fa fa-github" aria-hidden="true"></i> suggest</a>
-        <p>
-          GoCD is an open-source project, sponsored by <a target="_blank" href="http://www.thoughtworks.com" analytics-label="link_footer_thoughtworks">ThoughtWorks Inc.</a>
-          under the <a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank" title="Apache 2.0 License">Apache License, Version 2.0</a>
-        </p>
+      <div class="row">
+        <div class="col-md-2">
+          <ul class="unordered-list">
+            <li><a href="../../download/">DOWNLOAD GoCD</a></li>
+            <li><a href="../part-1/">GETTING STARTED</a></li>
+            <li><a href="../../plugins/">PLUGINS</a></li>
+          </ul>
+        </div>
+
+        <div class="col-md-2">
+          <ul class="unordered-list">
+            <li> <a href="../../events/">WEBINARS + EVENTS</a></li>
+            <li><a href="../../resources/">RESOURCES</a></li>
+            <li><a href="../../contribute/">CONTRIBUTE</a></li>
+          </ul>
+        </div>
+
+        <div class="col-md-2">
+          <ul class="unordered-list">
+            <li><a href="https://www.github.com/gocd" target="_blank">FORK US ON GITHUB</a></li>
+            <li><a href="https://brandfolder.com/twproducts">LOGOS + BRAND</a> </li>
+            <li><a href="https://www.thoughtworks.com/privacy-policy">PRIVACY</a> </li>
+          </ul>
+        </div>
+
+        <div class="col-md-2">
+          <ul class="unordered-list">
+            <li><a href="../../enterprise/support/">ENTERPRISE SUPPORT</a> </li>
+            <li><a href="https://support.thoughtworks.com/hc/en-us/requests/new" target="_blank">SUBMIT A TICKET</a></li>
+          </ul>
+        </div>
+
+        <div class="col-md-4">
+          <p>
+            GoCD is an open-source project, sponsored by <a target="_blank" href="https://www.thoughtworks.com" analytics-label="link_footer_thoughtworks">ThoughtWorks Inc.</a>
+            under the <a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank" title="Apache 2.0 License">Apache License, Version 2.0</a>
+          </p>
+        </div>
       </div>
     </div>
   </div>
 </footer>
-<a href="#top" class="back-top"><i class="fa fa-arrow-circle-up"></i></a>
+
+    <div class='imagemodal'>
+      <div class='imagemodalcontent'>
+      </div>
+      <div class='close'>&#10006;
+      </div>
+    </div>
 
   </body>
-
   <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5T5PTB"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -426,11 +458,40 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 <!-- End Google Tag Manager -->
 
-<!-- Marketo -->
+<!-- Marketo async-->
 <script type="text/javascript">
-document.write(unescape("%3Cscript src='//munchkin.marketo.net/munchkin.js' type='text/javascript'%3E%3C/script%3E"));
+(function() {
+  var didInit = false;
+  function initMunchkin() {
+    if(didInit === false) {
+      didInit = true;
+      Munchkin.init('199-QDE-291');
+    }
+  }
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//munchkin.marketo.net/munchkin.js';
+  s.onreadystatechange = function() {
+    if (this.readyState == 'complete' || this.readyState == 'loaded') {
+      initMunchkin();
+    }
+  };
+  s.onload = initMunchkin;
+  document.getElementsByTagName('head')[0].appendChild(s);
+})();
 </script>
-<script>Munchkin.init('199-QDE-291');</script>
-<!-- End Marketo -->
+<!-- End Marketo async-->
+
+<!-- Twitter universal website tag code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','nw15k');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
 
 </html>

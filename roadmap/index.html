@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html lang="en">
   <head>
     <meta content="IE=edge" http-equiv="X-UA-Compatible" />
     <meta charset="utf-8" />
@@ -10,53 +10,51 @@
     <meta name="twitter:site" content="@goforcd" />
     <meta name="twitter:title" content="Roadmap - GoCD Product Vision | GoCD" />
     <meta name="twitter:description" content="GoCD - open source continuous delivery software. GoCDs current roadmap and the work in progress is updated and shared with the community." />
-    <meta name="twitter:image" content="http://preview.gocd.io/assets/images/gocd_continuous_delivery_thoughtworks_twitter.jpg" />
+    <meta name="twitter:image" content="http://localhost:4567/assets/images/gocd_continuous_delivery_thoughtworks_twitter-e8d93d6f.jpg" />
+    <link rel="canonical" href="http://localhost:4567/roadmap" />
 
     <title>Roadmap - GoCD Product Vision | GoCD</title>
     <link href="../assets/images/favicon.ico" rel="shortcut icon" />
-    <link href="../assets/stylesheets/site.css" rel="stylesheet" />
-    <script src="../assets/javascripts/all.js"></script>
+    <link href="../assets/stylesheets/site-c5ba96af.css" rel="stylesheet" />
+    <script src="../assets/javascripts/all-4311e8ab.js"></script>
     
     <link rel="alternate" type="application/atom+xml" title="GoCD blog feed" href="../feed.xml" />
+    <script>
+      $(document).ready(function(){
+    $('.chocolat-parent').Chocolat();
+});
+    </script>
   </head>
 
   <body class="roadmap roadmap_index">
     <header class="top">
   <div class="container">
-    <a class="logo" analytics-label="logo" href="../"><img title="GoCD Logo" alt="GoCD Logo" src="../assets/images/go_logo.svg" /></a>
+    <a href="../" class="logo" analytics-label="logo"><img src="../assets/images/go_logo-5b5ca9e1.svg" title="GoCD Logo" alt="GoCD Logo" /></a>
     <nav class="mainnav">
       <ul class="level0">
-        <li class="dropdown">
-          <a class="link_whygocd" analytics-label="link_whygocd" href="../why-gocd/">Why GoCD?</a>
-        </li>
-        <li class="dropdown">
-          <a class="toplink_contribute" analytics-label="link_community" href="../contribute/">Community</a>
-          <ul  class="level1">
-            <li><a class="link_contribute" analytics-label="link_community&gt;link_contribute" href="../contribute/">Contribute</a></li>
-            <li><a class="link_events" analytics-label="link_community&gt;link_events" href="../events/">Events</a></li>
-            <li><a class="link_plugins" analytics-label="link_community&gt;link_plugins" href="../plugins/">Plugins</a></li>
+        <li><a href="../why-gocd/" class="link_whygocd" analytics-label="link_whygocd">Features</a></li>
+        <li><a href="../resources.html" class="link_documentation" analytics-label="link_help&gt;link_documentation">Documentation</a></li>
+        <li><a href="../blog/" class="link_blog" analytics-label="Blog">Blog</a></li>
+
+        <li class="dropdown"><a href="../enterprise/" class="link_enterprise" analytics-label="Enterprise">Enterprise</a>
+          <ul class="level1 mobile-nav">
+            <li><a href="../enterprise/" class="link_overview">Overview</a></li>
+            <li><a href="../enterprise/addons/" class="link_addons">Add-ons</a></li>
+            <li><a href="../enterprise/support/" class="link_support">Support</a></li>
+            <li><a href="../enterprise/pricing/" class="link_pricing">Pricing</a></li>
+            <li><a href="../enterprise/contact/" class="link_contact">Contact</a></li>
           </ul>
         </li>
-        <li><a class="link_blog" analytics-label="Blog" href="../blog/">Blog</a></li>
-        <li class="dropdown">
-          <a class="toplink_help" analytics-label="link_help" href="../help/">Help</a>
-          <ul  class="level1">
-            <li><a class="getting-started" analytics-label="link_help&gt;link_getting_started" href="../help/">Getting started</a></li>
-            <li><a target="_blank" analytics-label="link_help&gt;link_documentation" href="https://docs.gocd.io/current/">Documentation</a></li>
-            <li><a class="link_resources" analytics-label="link_help&gt;link_resources" href="../resources.html">Resources</a></li>
-          </ul>
-        </li>
-        <li><a class="link_download" analytics-label="link_help&gt;link_download" href="../download/">Download</a></li>
-        <li><a class="link_support" target="_blank" analytics-label="link_support" href="https://www.thoughtworks.com/go">Get Support</a></li>
+        <li><a href="../download/" class="download" analytics-label="Download">Download</a></li>
       </ul>
     </nav>
     <button class="navbtn menu collapse">
     <span></span>
     </button>
   </div>
+
 </header>
 <span id="top"></span>
-<a class="github-fork-ribbon" target="_blank" analytics-label="link_header_fork&gt;link_download" title="Fork me on GitHub" href="http://github.com/gocd">Fork me on GitHub</a>
 
     <div class="inner-banner">
   <div class="container">
@@ -66,93 +64,228 @@
 </div>
 <main>
 <div class="container">
-  <p>In many ways 2015 was all setup towards enabling more improvements in 2016. There was some "debt" that needed paying off, some performance improvements that needed to be made, some APIs that needed to be standardized and improved and more. All of it was valuable, in my opinion, and were necessary to do a lot more exciting work!</p>
-  <p>This is what the high-level idea for GoCD in 2016 looks like:</p>
-  <ul>
-    <li>Be universal and easily extensible through usable extension points (both APIs and plugins)</li>
-    <li>Produce more content around how GoCD can be used effectively and even how your CD journey can be more effective</li>
-    <li>Have a better getting-started experience both in the application itself and on go.cd</li>
-    <li>Better support for clouds and containers</li>
-  </ul>
-  <p>Let's take a look at each of these areas and what kind of changes can be expected in the GoCD ecosystem for it, in 2016:</p>
-  <h3>Be universal and easily extensible</h3>
-  <p>For a while now, GoCD has been introducing new extension points to make new plugins possible. In 2015, the material endpoint was introduced to enable GoCD to use newer kinds of materials. This led to plugins which trigger builds on GitHub pull requests, Git feature branches, Gerrit change sets and some plugins which have not been open-sourced by the authoring organizations yet. Similarly, the notification endpoint allowed, among other plugins, notifiers for Slack, HipChat, Gerrit, Websockets, etc.</p>
-  <p>In 2016, this trend should continue with a more comprehensive notification endpoint which includes events related to agents registering and going missing, jobs and pipelines starting and finishing, config changes, user actions, logins and more. This should allow users and tool authors to write better dashboards, generate better information out of GoCD and integrate it better with external tools.</p>
-  <p>Adding to this, the elastic agent endpoint, the plan for which is to start work in the new year, should enable quite interesting integrations and make GoCD more effective on clouds and containers. More on this below!</p>
-  <p>Finally, the APIs in GoCD are continuously improving and are being extended. This will continue in 2016, and enable better integrations and UX. The idea is to continue to be API-first and any change to GoCD itself involves a re-think of the API surrounding it and often, work is done on the API and it is improved before the actual change is made.</p>
-  <p>For ThoughtWorks' supported offering, the plan is to use the notifications to introduce a system of reports such as audit logs, agent usage, end-to-end delivery times and more to provide helpful information to a wide audience. If that interests you, let us know what kind of information and reports might be interesting to you, and challenges you're facing without having them.</p>
-  <h3>Produce more content around GoCD and CD itself</h3>
-  <p>Though there is some growing content around how CD ("Continuous Delivery") works, it is hard to find good guides around a lot of concepts and practices around it. It's definitely hard to find it in one place. The closest is probably the excellent book, Continuous Delivery, co-authored by Jez Humble and Dave Farley. However, there's definitely room for more content, including recent experience reports and learnings. I'd like us to start this with some ideas and posts, but this is something with which you, wonderful reader, can help. Guest posts or even edits and comments will always be useful. This need not be content generated solely by this community. I feel that it should link out to good external references as needed and be a good place for everyone to learn more about CD in general and improve their craft. Look out for more of this in 2016!</p>
-  <h3>Have a better getting-started experience</h3>
-  <p>GoCD's getting started experience can definitely be better. As with everything these days, users' expectations regarding their initial and continued experiences keeps changing. In GoCD's world, I think one of the problems is that the domain of GoCD's concepts takes getting used to. Other problems include a not-so-easy installation and evaluation experience, better documentation targeted towards a new user ("How do I create my first pipeline?"), better dashboard UI, a much better go.cd site which points to all this information in a meaningful way, etc.</p>
-  <p>In 2016, GoCD and the ecosystem around it should change to make this possible and though changing everything in the application is probably a multi-year effort, the already-mentioned changes to the API have been making this easier to do, since the frontend and the backend are more clearly separated. If you have good UI/UX skills and are willing to help, just join us on the developers' Gitter channeland let us know!</p>
-  <h3>Better support for clouds and containers</h3>
-  <p>Though this comes up last in this list, it is definitely not the least important. In fact, the current plan is to start on this very soon. The cloud and container ecosystems (who am I kidding, no one seems to be able to look beyond "docker") have been exploding over the last couple of years (at least) and there is a definite trend of interest and move towards both of them and beyond them. As a CD system, I feel that GoCD can definitely help users make use of their investments in clouds and containers more effective, when used for CD.</p>
-  <p>Elastic agents have been mentioned earlier in this document. In 2016, the idea is to use elastic agents and create a docker-container-per-job plugin, which runs a fully isolated job with dependency management done inside the docker image rather than the GoCD agent ("You need Maven 3.0? Sure. Update your Dockerfile and it will be taken care of. You won't cause issues with this other pipeline which needs Maven 2.0."). With elastic agents, this can be done transparently and a GoCD agent can be brought up inside a container temporarily and a build can be executed and the agent torn down and thrown away. To make this work really well will involve some exciting changes to the GoCD Agent infrastructure, like moving away from a pure Java agent to a language-agnostic one (umm, I'm going to go for full buzz points and say, "golang") and pure JSON communication between the agent and the server. Though Docker is the one with the most interest from everyone, there are many other competing container ecosystems and the fact that the elastic agent endpoint is open and usable by anyone will help plugin authors do this for other ecosystems, if there is interest.</p>
-  <p>GoCD also needs to be more easily usable in cloud ecosystems. First of all that means making it more easy to evaluate it on different cloud offerings. Second, it means having the ability to spin up agents on different cloud offerings and have them connect to the server. Though this is possible today, and is used by some users of GoCD, there is a perception that it cannot be done. I think this scenario should be explicitly thought about and there should be enough content and related infrastructure provided to make it easy for anyone to run their CD system in the cloud. Again, with elastic agents, they can be brought up and down on demand and can be really cost-effective.</p>
-  <p>For ThoughtWorks' supported offering, the idea is to pick a cloud provider (most likely AWS, as it is an obvious choice for many) and provide deeper integration with it, along with the ability to have fully elastic agents. Similarly, there is a vast ecosystem around containers to work with, and it is likely that there will be much deeper integration with Kubernetes or Mesos and maybe more. I am excited about the potential of this to change how organizations think about their builds, repeatability of builds and isolation. All topics that interest me and many on the GoCD team as well. Does this interest you? If so, write to us and let us know what you think.</p>
-  <h3>What else?</h3>
-  <p>In 2016 the core GoCD team will focus on what is in this document. Though this is different from 2015 where we asked the community to help choose ideas, I feel that it is worth trying to set a direction and work towards it rather than try and design by committee.</p>
-  <p>There is always room for feedback and I'm not averse to changing this as it is not set in stone. However, I would like to be convinced for the need to change this. :) If you really feel strongly about something which is not on this and you think it should be fixed, you're always welcome to work on it and submit a pull request and the team has been responsive to them. In fact, the feeling of knowing that someone else cares enough to take the effort to understand the code and submit a pull request is ... something else. We love it!</p>
-  <p>We have had some wonderful contributors in 2015, and I hope they continue in 2016 and beyond and I hope we continue to get new contributors interested in making GoCD even better.</p>
-  <p>You will also see many more releases in 2016 than earlier. The plan is to not tie releases to features and either release on a date or maybe even every green regression build. The team and I feel that the groundwork to do this will be valuable and it will be useful to the many users who are looking to get the latest and greatest more often, and provide quicker feedback.</p>
-  <h4>Summary</h4>
-  <p>Lots of exciting changes coming up: APIs, endpoints, clouds, containers, Docker, better content, getting started, UI and UX changes ... and more. It's going to be a great year!</p>
+
+GoCD's current roadmap consists of two main parts:
+
+<ol>
+  <li>Better support for cloud deployments (cloud-native GoCD support).</li>
+  <li>Better user experience.</li>
+</ol>
+
+These two parts are explained below. Apart from this, GoCD as a product continues to evolve along these values:
+<ul>
+  <li>Be universal and easily extensible.</li>
+
+  <li>Improve support for APIs and the ability for users to configure it without using the UI (this includes declarative
+    definitions of pipelines as code).</li>
+
+  <li>Produce more supporting content for improving the way people do CD (mostly on the GoCD blog).</li>
+</ul>
+
+<h2>Better support for cloud deployments (cloud-native)</h2>
+
+Container systems (almost single-handedly Docker) have changed how applications are built. The fact that applications
+can now be shipped and shared in a standardized manner with dependencies defined or bundled in a standardized manner
+changes both the development side and the operations side. Applications can now be defined in terms of container images
+and the interactions between containers.
+
+<p></p>
+
+Container orchestration systems (such as Kubernetes and Mesos) are in the middle of a major shift in how applications
+are deployed and managed. They are the shipping infrastructure equivalent of the virtual world and by the abstractions
+they provide, they make it easier to deploy, manage and monitor entire fleets of containerized applications across
+multiple nodes, physical or virtual. Quite often, these nodes are in the cloud and these orchestration systems provide
+reasonable abstractions over them.
+
+<p></p>
+
+All of these changes inevitably affect the CD workflow. The good news is that in many cases, it becomes simpler. The
+processes and underlying workflows will still need to be considered and modeled. Though the generic nature of GoCD
+allows these changes to be modeled today, GoCD will be extended to embrace these changes and make them easier and more
+streamlined.
+
+<p></p>
+
+Most of this work will focus on Kubernetes as the first implementation, since it seems to be the most mature and
+accepted container orchestration system. All of the work will be done as generically as possible, so that GoCD is not
+tied irrevocably to Kubernetes. Extension points will be identified, so that the Kubernetes-related work can be inside
+plugins, so that these ideas can be extended to other orchestration systems.
+
+<p></p>
+
+The work will be based on these high-level ideas:
+
+<ol class="outer">
+  <li>
+    Running GoCD natively on Kubernetes: Involves ...
+    <ol class="inner">
+      <li>Running the GoCD server in Kubernetes.</li>
+      <li>Running automatically scaled elastic agents in Kubernetes.</li>
+    </ol>
+  </li>
+
+  <li>
+    Better support for the Docker workflow: Involves ...
+    <ol class="inner">
+      <li>The idea of building an image and propagating it across multiple environments till production.</li>
+      <li>This involves allowing build artifacts to be natively published to artifact repositories (such as a Docker Registry, Artifactory or S3).</li>
+    </ol>
+  </li>
+
+  <li>
+    Deployments to Kubernetes: Involves ...
+    <ol class="inner">
+      <li>These can be modeled using simple commands (and that is encouraged).</li>
+      <li>More support for generating deployment yamls and helm charts with the correct versions.</li>
+      <li>Ability to monitor deployments (they might be done asynchronously by Kubernetes).</li>
+    </ol>
+  </li>
+
+  <li>More content around CD in this new world. It's not always as straightforward as you think.</li>
+</ol>
+
+<p></p>
+
+More details can (soon) be found <a href="https://github.com/gocd/gocd/issues/3969">here</a>.
+
+<p></p>
+
+On the commercial side, this might include automatic scaling of nodes (not just containers) across different cluster
+systems (GCE, Azure, OpenShift, Mesos, etc) to save cost.
+
+<h2>Better user experience</h2>
+
+<p></p>
+
+This involves a refresh of the GoCD user experience (not just the user interface). Based on many interviews with users
+of GoCD and other solutions, there has been a lot of feedback gathered about changes to the user experience of
+GoCD. These changes will take the form of:
+
+<ol>
+  <li>Better discoverability of features.</li>
+  <li>Improved movement through the app (easier to get to what you need).</li>
+  <li>Better use of colors and icons.</li>
+  <li>Better wayfinding (headers).</li>
+  <li>Rewrites of significant parts of the application to provide new data or existing data in a better form.</li>
+</ol>
+... and more.
+
+<p></p>
+
+You might be able to see of this already, on the VSM (Value Stream Map) pages. If you haven't had a chance to provide
+feedback or ideas, more details can (soon) be found <a href="https://github.com/gocd/gocd/issues/3970">here</a>.
+
+<h2>Other</h2>
+
+<p></p>
+
+Though not part of this roadmap, there are other aspects such as better credential management, better plugin management,
+more granularity in permissions, etc. which will continue to be worked on. This roadmap just talks about the bigger
+pieces and it will be changed to reflect changing priorities.
+
+<h2>About the roadmap:</h2>
+
+<p></p>
+
+The idea of this roadmap is to mention and explain the plans for GoCD in the near-term. It does not mention timelines
+explicitly, because none of this is set in stone. This can be changed based on your ideas and feedback. The goal is that
+the work mentioned above will be in progress or will start soon. The roadmap document itself will be updated as often as
+needed.
+
+<p></p>
+
+Last updated: Dec 7, 2017
+
 </div>
 </main>
+
     <footer>
   <div class="join-community">
-    <div class="container">
-      <h3>Join our community</h3>
-      <ul>
-        <li>
-          <a href="https://groups.google.com/forum/#!forum/go-cd" target="_blank" analytics-label="google-group">
-            <i class="icon fa fa-users fa-4x join-us" aria-hidden="true"></i>
-            Join our discussion forum
-          </a>
-        </li>
-        <li>
-          <a href="https://gitter.im/gocd/gocd" target="_blank" analytics-label="gitter">
-            <i class="icon fa fa-comments fa-4x develop-with-us" aria-hidden="true"></i>
-           Chat with us
-          </a>
-        </li>
-        <li>
-          <a href="https://github.com/gocd/gocd" target="_blank" analytics-label="github">
-            <i class="icon fa fa-github fa-4x watch-us" aria-hidden="true"></i>
-            watch us
-          </a>
-        </li>
-        <li>
-          <a href="https://twitter.com/goforcd" target="_blank" analytics-label="twitter">
-            <i class="icon fa fa-twitter fa-4x follow-us" aria-hidden="true"></i>
-            follow us
-          </a>
-        </li>
-        <li>
-          <a href="../subscribe/"><i class='icon fa fa-envelope fa-4x subscribe' aria-hidden='true'></i>subscribe</a>
-        </li>
-      </ul>
-    </div>
+    <ul>
+      <li>
+        <a href="https://groups.google.com/forum/#!forum/go-cd" target="_blank" analytics-label="google-group">
+          <i class="icon fa fa-users fa-4x join-us" aria-hidden="true"></i>
+          <span>Join our discussion forum</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://gitter.im/gocd/gocd" target="_blank" analytics-label="gitter">
+          <i class="icon fa fa-comments fa-4x develop-with-us" aria-hidden="true"></i>
+         <span>Chat with us</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/gocd/gocd" target="_blank" analytics-label="github">
+          <i class="icon fa fa-github fa-4x watch-us" aria-hidden="true"></i>
+          <span>watch us</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://twitter.com/goforcd" target="_blank" analytics-label="twitter">
+          <i class="icon fa fa-twitter fa-4x follow-us" aria-hidden="true"></i>
+          <span>follow us</span>
+        </a>
+      </li>
+
+      <li>
+      <a href="../subscribe/"><i class= 'icon fa fa-envelope fa-4x subscribe' aria-hidden='true'></i> <span>subscribe</span></a>
+      </li>
+    </ul>
   </div>
+
   <div class="page-footer">
     <div class="container">
-      <div class="foo-content">
-        <h5 class="help-us-improve">Make this place better</h5>
-        <a href="http://github.com/gocd" class="social-buttons" analytics-label="link_footer_fork"><i class="fa fa-code-fork" aria-hidden="true" target="_blank"></i> fork</a>
-        <a href="https://github.com/gocd/www.go.cd/issues"  class="social-buttons" analytics-label="link_footer_github_issues"> <i class="fa fa-github" aria-hidden="true"></i> suggest</a>
-        <p>
-          GoCD is an open-source project, sponsored by <a target="_blank" href="http://www.thoughtworks.com" analytics-label="link_footer_thoughtworks">ThoughtWorks Inc.</a>
-          under the <a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank" title="Apache 2.0 License">Apache License, Version 2.0</a>
-        </p>
+      <div class="row">
+        <div class="col-md-2">
+          <ul class="unordered-list">
+            <li><a href="../download/">DOWNLOAD GoCD</a></li>
+            <li><a href="../getting-started/part-1/">GETTING STARTED</a></li>
+            <li><a href="../plugins/">PLUGINS</a></li>
+          </ul>
+        </div>
+
+        <div class="col-md-2">
+          <ul class="unordered-list">
+            <li> <a href="../events/">WEBINARS + EVENTS</a></li>
+            <li><a href="../resources/">RESOURCES</a></li>
+            <li><a href="../contribute/">CONTRIBUTE</a></li>
+          </ul>
+        </div>
+
+        <div class="col-md-2">
+          <ul class="unordered-list">
+            <li><a href="https://www.github.com/gocd" target="_blank">FORK US ON GITHUB</a></li>
+            <li><a href="https://brandfolder.com/twproducts">LOGOS + BRAND</a> </li>
+            <li><a href="https://www.thoughtworks.com/privacy-policy">PRIVACY</a> </li>
+          </ul>
+        </div>
+
+        <div class="col-md-2">
+          <ul class="unordered-list">
+            <li><a href="../enterprise/support/">ENTERPRISE SUPPORT</a> </li>
+            <li><a href="https://support.thoughtworks.com/hc/en-us/requests/new" target="_blank">SUBMIT A TICKET</a></li>
+          </ul>
+        </div>
+
+        <div class="col-md-4">
+          <p>
+            GoCD is an open-source project, sponsored by <a target="_blank" href="https://www.thoughtworks.com" analytics-label="link_footer_thoughtworks">ThoughtWorks Inc.</a>
+            under the <a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank" title="Apache 2.0 License">Apache License, Version 2.0</a>
+          </p>
+        </div>
       </div>
     </div>
   </div>
 </footer>
-<a href="#top" class="back-top"><i class="fa fa-arrow-circle-up"></i></a>
+
+    <div class='imagemodal'>
+      <div class='imagemodalcontent'>
+      </div>
+      <div class='close'>&#10006;
+      </div>
+    </div>
 
   </body>
-
   <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5T5PTB"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -167,11 +300,40 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 <!-- End Google Tag Manager -->
 
-<!-- Marketo -->
+<!-- Marketo async-->
 <script type="text/javascript">
-document.write(unescape("%3Cscript src='//munchkin.marketo.net/munchkin.js' type='text/javascript'%3E%3C/script%3E"));
+(function() {
+  var didInit = false;
+  function initMunchkin() {
+    if(didInit === false) {
+      didInit = true;
+      Munchkin.init('199-QDE-291');
+    }
+  }
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//munchkin.marketo.net/munchkin.js';
+  s.onreadystatechange = function() {
+    if (this.readyState == 'complete' || this.readyState == 'loaded') {
+      initMunchkin();
+    }
+  };
+  s.onload = initMunchkin;
+  document.getElementsByTagName('head')[0].appendChild(s);
+})();
 </script>
-<script>Munchkin.init('199-QDE-291');</script>
-<!-- End Marketo -->
+<!-- End Marketo async-->
+
+<!-- Twitter universal website tag code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','nw15k');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
 
 </html>
