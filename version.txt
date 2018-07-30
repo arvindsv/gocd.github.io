@@ -1,9 +1,9 @@
-Last updated: 2018-07-30 14:21:55 -0400
+Last updated: 2018-07-30 14:27:35 -0400
 
 Latest commit:
-    commit a28ac45fe475eaf6d1f5cf9a7412f28e7461735c
-    Author: Louda Peña <lbaca@thoughtworks.com>
-    Date:   Mon Jul 30 11:17:50 2018 -0700
+    commit e857279c583dba2091b98f2219dc7da26956f211
+    Author: Chandu199 <n.chandrakanth0@gmail.com>
+    Date:   Mon Jul 30 11:04:31 2018 +0530
     
-        config strategy draft
+        update on the site changes as per mockup
     
