@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 10:33:15 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 609161f06e2087a57b3a4b19d9c4be3cf066b3c5
+
+
 Run at: Tue Jul 31 10:29:53 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/screenshots/thumb/agent-dpr-2-a093bdc6.jpg
    identical  build/assets/images/enterprise-sales-rupesh-67d31c82.jpg
    identical  build/assets/images/enterprise-sales-al-aef0859e.jpg
-   identical  build/assets/images/customer-logos/haufe-e5b70aab.jpg
-   identical  build/assets/images/customer-logos/ancestry-fa92ee57.jpg
-   identical  build/assets/images/customer-logos/nike-8f9e91cd.jpg
-   identical  build/assets/images/customer-logos/autotrader-4dec0c58.jpg
-   identical  build/assets/images/customer-logos/medidata-b4b4285b.jpg
-   identical  build/assets/images/customer-logos/bt-fe7c6f66.jpg
-   identical  build/assets/images/customer-logos/hoovers-80eda3f2.jpg
-   identical  build/assets/images/customer-logos/barclaycard-86f6dd22.jpg
-   identical  build/assets/images/author-wei-f31c41e4.jpg
-   identical  build/assets/images/texture-bg-grey-8c7af6fc.jpg
-   identical  build/assets/images/texture-bg-2-9c21c423.jpg
-   identical  build/assets/images/vms-build-time-7ae5af26.jpg
