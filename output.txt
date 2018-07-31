@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 11:46:15 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 609161f06e2087a57b3a4b19d9c4be3cf066b3c5
+
+
 Run at: Tue Jul 31 11:42:46 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/blog/tracingprod1-1c3ed7f0.png
    identical  build/assets/images/blog/sriram-peg2-9f490080.png
    identical  build/assets/images/blog/are-you-ready-for-continuous-delivery/gocd_thoughtworks_continuous_integration_feedback_loops-8325bf92.png
-   identical  build/assets/images/blog/are-you-ready-for-continuous-delivery/gocd_thoughtworks_continuous_delivery_feedback_loops-cb9bdbe3.png
-   identical  build/assets/images/blog/plugin-settings/list-plugin-37a71798.png
-   identical  build/assets/images/blog/plugin-settings/configure-plugin-8e65ded3.png
-   identical  build/assets/images/blog/plugin-settings/configure-plugin-errors-3678f632.png
-   identical  build/assets/images/blog/set-up-a-go-dev-environment/summary_image-33c07d56.png
-   identical  build/assets/images/blog/gocd-snap-at-devops-enterprise-summit/summary_image-32888e61.png
-   identical  build/assets/images/blog/cd-hacks/fetch_materials-07a717f9.png
-   identical  build/assets/images/blog/cd-hacks/edit_material_whitelist-1592dc8d.png
-   identical  build/assets/images/blog/cd-considerations/environments-dynamic-provisioning-b19e72d6.png
-   identical  build/assets/images/blog/cd-considerations/feature-toggles-diagram-4a61a06d.png
-   identical  build/assets/images/blog/cd-considerations/feature-toggles-bf40d521.png
-   identical  build/assets/images/blog/cd-considerations/trunk-based-development-6995662e.png
