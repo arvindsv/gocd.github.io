@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 12:16:46 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 609161f06e2087a57b3a4b19d9c4be3cf066b3c5
+
+
 Run at: Tue Jul 31 12:13:26 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/releases/16.12/agents-page-b520368d.png
    identical  build/assets/images/releases/16.12/elastic-profiles-add-new-eb4f88a3.png
    identical  build/assets/images/releases/17.5.0/auth-config-e288de5a.png
-   identical  build/assets/images/releases/17.5.0/security-menu-d1aed431.png
-   identical  build/assets/images/releases/17.5.0/role-config-4127629c.png
-   identical  build/assets/images/releases/16.3/git-shallow-clone-e82e142c.png
-   identical  build/assets/images/releases/17.11.0/pipeline-run-duration-in-vsm-4d3bffed.png
-   identical  build/assets/images/releases/17.11.0/vsm-explicit-link-dashboard-ca369c86.png
-   identical  build/assets/images/releases/17.11.0/vsm-explicit-link-job-details-header-41ce0456.png
-   identical  build/assets/images/releases/17.11.0/vsm-explicit-link-vsm-4d3bffed.png
-   identical  build/assets/images/releases/17.6.0/improve-timestamp-rendering-1-5a8314bf.png
-   identical  build/assets/images/releases/17.11.0/vsm-explicit-link-stage-details-1590a797.png
-   identical  build/assets/images/releases/17.2.0/template-permissions-73dc5171.png
-   identical  build/assets/images/releases/17.11.0/vsm-explicit-link-vsm-header-95afe224.png
-   identical  build/assets/images/releases/17.6.0/rerun-failed-jobs-182f21d2.png
