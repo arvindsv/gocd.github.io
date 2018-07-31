@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 09:15:11 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 38c0713d32430c1d3017998aeea85e77988cc652
+
+
 Run at: Tue Jul 31 09:11:46 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/font-awesome/fontawesome-webfont-28b78224.woff
    identical  build/assets/vendor/fonts/urw-geometric/354267_0_0-508f35cf.eot
    identical  build/assets/vendor/fonts/urw-geometric/354267_2_0-1547b637.eot
-   identical  build/assets/vendor/fonts/urw-geometric/354267_3_0-6202abe7.eot
-   identical  build/assets/vendor/fonts/opensans/v13/k3k702ZOKiLJc3WVjuplzInF5uFdDttMLvmWuJdhhgs-f750cc9c.ttf
-   identical  build/assets/vendor/fonts/urw-geometric/354267_1_0-13cd3e72.eot
-   identical  build/assets/font-awesome/fontawesome-webfont-d6f48cba.woff2
-   identical  build/assets/font-awesome/fontawesome-webfont-13b1eab6.ttf
-   identical  build/assets/font-awesome/fontawesome-webfont-d980c2ce.eot
-   identical  build/assets/javascripts/help-54dab0a2.js
-   identical  build/assets/javascripts/marketo_popover-2ee090ae.js
-   identical  build/index.html
-   identical  build/videos/index.html
-   identical  build/misc/generate-patched-jar-for-deserialization-vulnerability/index.html
-   identical  build/cd101/index.html
