@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 11:14:06 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 609161f06e2087a57b3a4b19d9c4be3cf066b3c5
+
+
 Run at: Tue Jul 31 11:10:35 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/image09-da3d56f1.png
    identical  build/assets/images/blog/mobile-app-cd-gocd/sonarqube-quality-96da80f3.png
    identical  build/assets/images/image08-da3d56f1.png
-   identical  build/assets/images/getting-started/start-adding-a-pipeline-dependency-material-bb980ccf.png
-   identical  build/assets/images/getting-started/adding-an-artifact-533dbc7e.png
-   identical  build/assets/images/getting-started/first-pipeline-paused-99e91c88.png
-   identical  build/assets/images/getting-started/use-the-predefined-stage-job-62a795ea.png
-   identical  build/assets/images/getting-started/job-output-394d7a4a.png
-   identical  build/assets/images/getting-started/the-contents-of-the-artifact-d796debe.png
-   identical  build/assets/images/getting-started/adding-a-fetch-artifact-task-143fc605.png
-   identical  build/assets/images/getting-started/part-3/4-pinned-vsm-with-links-8f4c5d92.png
-   identical  build/assets/images/getting-started/dependent-pipelines-on-the-dashboard-4695ac92.png
-   identical  build/assets/images/getting-started/part-3/3-vsm-of-build-pipeline-8b12b538.png
-   identical  build/assets/images/blog/architecting-continuous-delivery/the-deployment-pipeline-6ed8f669.png
-   identical  build/assets/images/getting-started/part-3/1-gateways-to-vsm-0e9d70b0.png
