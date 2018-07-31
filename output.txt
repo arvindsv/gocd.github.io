@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 12:40:08 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 609161f06e2087a57b3a4b19d9c4be3cf066b3c5
+
+
 Run at: Tue Jul 31 12:36:43 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Recreate branch: git checkout -b temp-work-branch ck/geting_started_experience_u
 ------
 Switched to a new branch 'temp-work-branch'
 Branch temp-work-branch set up to track remote branch geting_started_experience_updated from ck.
-
-Cleanup: git reset --hard HEAD
-------
-HEAD is now at 38c0713d3 Test commit
-
-Rebasing to master: git rebase up/master
-------
-First, rewinding head to replay your work on top of it...
-Applying: updated getting started experience updated
-Applying: update on the site changes as per mockup
-Applying: Change copyright year
-Applying: Test commit
