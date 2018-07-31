@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 12:10:07 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 609161f06e2087a57b3a4b19d9c4be3cf066b3c5
+
+
 Run at: Tue Jul 31 12:06:40 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/releases/16.10/agents-page-beta-29cf3ee0.png
    identical  build/assets/images/releases/17.9.0/elastic-agent-grouping-by-plugin-id-3f70396b.png
    identical  build/assets/images/releases/17.9.0/edit-pipeline-from-vsm-008fac52.png
-   identical  build/assets/images/releases/17.3.0/elastic_agent_icon-1e562032.png
-   identical  build/assets/images/releases/17.3.0/build_status-96febef4.png
-   identical  build/assets/images/releases/17.3.0/stage_with_symbols-4c8d52df.png
-   identical  build/assets/images/releases/16.9/quickeditbutton-78e54c92.png
-   identical  build/assets/images/releases/18.2.0/new-dashboard-4720d938.png
-   identical  build/assets/images/releases/16.9/quickeditpage-126e6d7a.png
-   identical  build/assets/images/releases/17.4.0/errors-a3128474.png
-   identical  build/assets/images/releases/18.2.0/elastic-agent-plugin-status-report-1ad2f3fc.png
-   identical  build/assets/images/releases/17.4.0/timestamp-99c7c6d3.png
-   identical  build/assets/images/releases/17.4.0/fullscreen-9ad2d6eb.png
-   identical  build/assets/images/releases/17.4.0/border-31151e37.png
-   identical  build/assets/images/releases/15.1/15_1_old_pipeline_label-9b431eaf.png
