@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 09:18:35 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 38c0713d32430c1d3017998aeea85e77988cc652
+
+
 Run at: Tue Jul 31 09:15:11 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/vendor/fonts/urw-geometric/354267_3_0-f96616d0.woff2
    identical  build/assets/vendor/fonts/urw-geometric/354267_1_0-bf841131.woff2
    identical  build/assets/images/dld-osx-034941e1.svg
-   identical  build/assets/vendor/fonts/urw-geometric/354267_0_0-dbf86f28.woff2
-   identical  build/assets/vendor/fonts/urw-geometric/354267_3_0-896a9cc6.ttf
-   identical  build/assets/vendor/fonts/urw-geometric/354267_1_0-2f404a98.ttf
-   identical  build/assets/vendor/fonts/urw-geometric/354267_0_0-4b3b31ec.ttf
-   identical  build/assets/vendor/fonts/urw-geometric/354267_2_0-180cfed3.ttf
-   identical  build/assets/vendor/fonts/opensans/v13/MTP_ySUJH_bn48VBG8sNSonF5uFdDttMLvmWuJdhhgs-a8d48e78.ttf
-   identical  build/assets/vendor/fonts/opensans/v13/cJZKeOuBrn4kERxqtaUH3aCWcynf_cDxXwCLxiixG1c-5fab28c4.ttf
-   identical  build/assets/font-awesome/fontawesome-webfont-98a8aa5c.svg
-   identical  build/assets/vendor/fonts/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTYnF5uFdDttMLvmWuJdhhgs-027bb697.ttf
-   identical  build/assets/font-awesome/fontawesome-webfont-28b78224.woff
-   identical  build/assets/vendor/fonts/urw-geometric/354267_0_0-508f35cf.eot
-   identical  build/assets/vendor/fonts/urw-geometric/354267_2_0-1547b637.eot
