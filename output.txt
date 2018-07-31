@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 09:59:21 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 609161f06e2087a57b3a4b19d9c4be3cf066b3c5
+
+
 Run at: Tue Jul 31 09:55:59 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/go.cd_server-and-agents-8a7f4cd3.svg
    identical  build/assets/images/go.cd_pipelines-materials-e64b8575.svg
    identical  build/assets/images/lightbox-arrow-e5c1fbd9.svg
-   identical  build/assets/images/home/ui_illo-647c5fa8.svg
-   identical  build/assets/images/go_logo-5b5ca9e1.svg
-   identical  build/assets/images/Go_watermark_logo-c6c0c15b.svg
-   identical  build/assets/images/go.cd_trust-your-team-ae0d921b.svg
-   identical  build/assets/images/go.cd_keep-configuration-tidy-c6a43973.svg
-   identical  build/assets/images/dld-rpm-a111e275.svg
-   identical  build/assets/images/go.cd_decide-66f54e71.svg
-   identical  build/assets/images/go.cd_merge-eabd7739.svg
-   identical  build/assets/images/go.cd_why-go-plugins-f59a63a3.svg
-   identical  build/assets/images/go.cd_run-and-grok-your-tests-a04b0bac.svg
-   identical  build/assets/images/go.cd_Deploy-any-version-anytime-d2db9a66.svg
-   identical  build/assets/images/dld-zip-073204d1.svg
