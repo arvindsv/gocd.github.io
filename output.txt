@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 11:07:16 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 609161f06e2087a57b3a4b19d9c4be3cf066b3c5
+
+
 Run at: Tue Jul 31 11:03:47 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/getting-started/part-2/12-move-the-fetch-artifact-to-top-18eeeed5.png
    identical  build/assets/images/getting-started/part-2/17-fetch-from-ancestor-pipeline-074da703.png
    identical  build/assets/images/getting-started/part-2/15-output-of-fetched-artifact-974958e8.png
-   identical  build/assets/images/getting-started/part-2/16-ancestor-artifacts-vsm-142de56a.png
-   identical  build/assets/images/getting-started/part-2/14-tasks-should-look-like-this-b45c1798.png
-   identical  build/assets/images/getting-started/part-2/19-custom-tab-in-action-a2c1dcac.png
-   identical  build/assets/images/getting-started/part-2/18-custom-tab-configure-e1e878c6.png
-   identical  build/assets/images/getting-started/part-2/5-dependent-pipeline-dashboard-19905315.png
-   identical  build/assets/images/getting-started/part-2/10-adding-fetch-artifact-cd85c5b4.png
-   identical  build/assets/images/getting-started/part-2/1-pipeline-configuration-page-08907387.png
-   identical  build/assets/images/getting-started/part-2/2-pipeline-dependency-material-73c42e70.png
-   identical  build/assets/images/getting-started/part-2/13-contents-of-fetch-artifact-d389e3d3.png
-   identical  build/assets/images/getting-started/part-2/11-details-can-be-autocompleted-3378453b.png
-   identical  build/assets/images/getting-started/pipeline-finished-6ab859f9.png
-   identical  build/assets/images/getting-started/build-pipeline-ae429bf1.png
