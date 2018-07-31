@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 11:53:07 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 609161f06e2087a57b3a4b19d9c4be3cf066b3c5
+
+
 Run at: Tue Jul 31 11:49:43 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/blog/mark-failfast1-076157dd.png
    identical  build/assets/images/blog/sriram-package1-8fa6fb41.png
    identical  build/assets/images/blog/gocd-versions/gocd_14_4-bf679473.png
-   identical  build/assets/images/blog/mark-failfast4-af0026ee.png
-   identical  build/assets/images/blog/agents-environments/agents-environments-hero-1ab3d2e8.png
-   identical  build/assets/images/blog/java-announcements/Duke_Wave-e8fff48c.png
-   identical  build/assets/images/blog/how-implement-continuous-delivery-enterprise-java-middleware/summary_image-9864dd87.png
-   identical  build/assets/images/blog/java-announcements/Duke_Wave_Wide-867d8ffb.png
-   identical  build/assets/images/blog/gocd-usage-analytics/gocd-settings-3b53fce9.png
-   identical  build/assets/images/blog/mark-failfast2-39e40b5e.png
-   identical  build/assets/images/blog/manual-gates/pipeline-history-cdb6d8df.png
-   identical  build/assets/images/blog/dotnet-core-gocd/pipeline-as-material-d5920f88.png
-   identical  build/assets/images/blog/dotnet-core-gocd/gocd_artifacts-ce31bb61.png
-   identical  build/assets/images/blog/dotnet-core-gocd/package_cmd_label-2f8c10da.png
-   identical  build/assets/images/blog/dotnet-core-gocd/tasks-3c016ad4.png
