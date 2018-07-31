@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 10:43:33 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 609161f06e2087a57b3a4b19d9c4be3cf066b3c5
+
+
 Run at: Tue Jul 31 10:40:13 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/blog/gocd-vs-spinnaker/concerns-CD-workflow-b113290e.jpeg
    identical  build/assets/images/blog/manual-gates/pipeline-environments-53b88a03.jpeg
    identical  build/assets/images/blog/continuous-deployment-strategies/blue-green-deployments-d73adc69.jpeg
-   identical  build/assets/images/blog/continuous-deployment-strategies/canary-release-5c74ac79.jpeg
-   identical  build/assets/images/blog/build-propagation/pipeline-dependencies-64bb4fc3.jpeg
-   identical  build/assets/images/blog/build-propagation/pipeline-repos-5e961b5b.jpeg
-   identical  build/assets/images/blog/build-propagation/fan-in-fan-out-774eac6e.jpeg
-   identical  build/assets/images/blog/cd-hacks/material-blacklisting-5d8fd8c0.jpeg
-   identical  build/assets/images/blog/blue-green/dns-9ac8588f.jpeg
-   identical  build/assets/images/blog/blue-green/load-balancer-1a3e2b12.jpeg
-   identical  build/assets/images/blog/cd-considerations/cd-considerations/test-strategy-0cde2295.jpeg
-   identical  build/assets/images/campaign/elastic-agents/771-spot_illo_1-be2fe817.png
-   identical  build/assets/images/blog/cd-considerations/cd-considerations/hotfix-process-fef37152.jpeg
-   identical  build/assets/images/blog/cd-considerations/test-strategy-0cde2295.jpeg
-   identical  build/assets/images/blog/cd-considerations/managing-configuration-6efe2f64.jpeg
