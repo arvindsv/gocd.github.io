@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 12:06:40 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 609161f06e2087a57b3a4b19d9c4be3cf066b3c5
+
+
 Run at: Tue Jul 31 12:03:17 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/releases/17.4.0/fullscreen-9ad2d6eb.png
    identical  build/assets/images/releases/17.4.0/border-31151e37.png
    identical  build/assets/images/releases/15.1/15_1_old_pipeline_label-9b431eaf.png
-   identical  build/assets/images/releases/18.2.0/elastic-agent-status-report-66a6779c.png
-   identical  build/assets/images/releases/15.1/15_1_github_pr-4d2a6ba4.png
-   identical  build/assets/images/releases/15.1/15_1_console_log_timestamp-d475e063.png
-   identical  build/assets/images/go.cd_pipeline-dependency-material-0eeb8252.png
-   identical  build/assets/images/releases/15.1/15_1_new_pipeline_label-e4efa9b7.png
-   identical  build/assets/images/see-how-things-really-work-39fbef93.png
-   identical  build/assets/images/go.cd_server-aff636b1.png
-   identical  build/assets/images/screenshots/dashboard-fa9a3fa2.png
-   identical  build/assets/images/screenshots/vsm-795421ee.png
-   identical  build/assets/images/image01-453d1ed1.png
-   identical  build/assets/images/screenshots/console-timestamp-5541d6ce.png
-   identical  build/assets/images/image03-da3d56f1.png
