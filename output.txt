@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 08:47:52 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 38c0713d32430c1d3017998aeea85e77988cc652
+
+
 Run at: Tue Jul 31 08:44:26 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/2014/07/09/stopping-support-for-java-jdk-6/index.html
    identical  build/2014/02/24/build-promotion-go/index.html
    identical  build/2018/05/08/continuous-delivery-microservices-test-strategy/index.html
-   identical  build/2017/07/20/deployment-pipeline-automated-testing/index.html
-   identical  build/2016/06/08/Add-performance-testing-to-your-Continuous-Delivery-pipeline/index.html
-   identical  build/2015/04/27/Feature-Branch-Support/index.html
-   identical  build/2015/08/28/pipeline-patterns/index.html
-   identical  build/2015/06/18/plugin-settings/index.html
-   identical  build/2018/06/12/cd-microservices-environment-strategy/index.html
-   identical  build/2015/04/29/Go_15_1_announced/index.html
-   identical  build/2017/05/23/control-deployments-manual-approvals/index.html
-   identical  build/2015/06/23/hardly-anyone-knows-cd/index.html
-   identical  build/2018/02/27/running-end-to-end-tests-kubernetes/index.html
-   identical  build/2017/04/06/reusing-pipelines/index.html
-   identical  build/2014/02/25/why-we-need-to-practice-cd/index.html
