@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 09:25:26 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 38c0713d32430c1d3017998aeea85e77988cc652
+
+
 Run at: Tue Jul 31 09:22:01 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/campaign/kubernetes/k8s-diagram-c15ee8f8.svg
    identical  build/assets/images/campaign/analytics/analytics-c0b6b3e9.svg
    identical  build/assets/images/campaign/analytics/bottleneck-c33a85e4.svg
-   identical  build/assets/images/campaign/analytics/status-cb7bd755.svg
-   identical  build/assets/images/go.cd_community-a7895dc9.svg
-   identical  build/assets/images/dld-k8s-df3afe16.svg
-   identical  build/assets/images/middleman-logo-257e02f7.svg
-   identical  build/assets/images/external-link-728fc441.svg
-   identical  build/assets/images/go.cd_gitter-8f5a1c91.svg
-   identical  build/assets/images/go.cd_stage-jobs-tasks-a58d5b3b.svg
-   identical  build/assets/images/go.cd_dev-documentation-2f137096.svg
-   identical  build/assets/images/go.cd_want-to-do-4b72b9b7.svg
-   identical  build/assets/images/dld-docker-054f2b9c.svg
-   identical  build/assets/images/go.cd_plugins-a7a0b91f.svg
-   identical  build/assets/images/go.cd_other-resources-50299cf1.svg
