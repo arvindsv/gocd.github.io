@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 11:35:44 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 609161f06e2087a57b3a4b19d9c4be3cf066b3c5
+
+
 Run at: Tue Jul 31 11:31:53 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/blog/go-cd-continuous-delivery-through-pipelines/dieamond-problem-6c3b1401.png
    identical  build/assets/images/blog/go-cd-continuous-delivery-through-pipelines/goCD-architecture-f39bda5b.png
    identical  build/assets/images/blog/authentication-plugins/list-plugin-56a2f413.png
-   identical  build/assets/images/blog/authentication-plugins/github-login-18b74573.png
-   identical  build/assets/images/blog/authentication-plugins/search-user-6d06f1b6.png
-   identical  build/assets/images/blog/using-go-cd-with-custom-certificates/summary_image-55b6cd48.png
-   identical  build/assets/images/blog/authentication-plugins/successful-login-a699ce6f.png
-   identical  build/assets/images/blog/authentication-plugins/generate-oauth-token-3fb15337.png
-   identical  build/assets/images/blog/authentication-plugins/login-page-b00e9881.png
-   identical  build/assets/images/blog/authentication-plugins/configure-plugin-5a5b3512.png
-   identical  build/assets/images/blog/webinar-recording/webinar-recording-2-c64ada41.png
-   identical  build/assets/images/blog/webinar-recording/webinar-recording-3-b790e151.png
-   identical  build/assets/images/blog/webinar-recording/webinar-recording-1-b761531e.png
-   identical  build/assets/images/blog/webinar-recording/webinar-recording-5-fc90b5f8.png
-   identical  build/assets/images/blog/run-x-instance/8-b478f0af.png
