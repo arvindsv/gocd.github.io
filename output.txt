@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 11:17:36 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 609161f06e2087a57b3a4b19d9c4be3cf066b3c5
+
+
 Run at: Tue Jul 31 11:14:06 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/blog/Pipeline1-c8a7b4f0.png
    identical  build/assets/images/blog/issues/issue-0621ef4e.png
    identical  build/assets/images/blog/pipeline-patterns/testing-failures-f00335a2.png
-   identical  build/assets/images/blog/forever-home/gocd-io-domain-c4a15911.png
-   identical  build/assets/images/blog/upcoming-API-changes/summary_image-40154615.png
-   identical  build/assets/images/blog/architecting-continuous-delivery/ice-cream-test-anti-pattern-32612565.png
-   identical  build/assets/images/blog/architecting-continuous-delivery/gocd-pipeline-3d4714d3.png
-   identical  build/assets/images/blog/architecting-continuous-delivery/rollback-deployment-a69c8139.png
-   identical  build/assets/images/blog/mobile-app-cd-gocd/CD-pipeline-f6e59dd8.png
-   identical  build/assets/images/blog/mobile-app-cd-gocd/breaking-down-monolith-tests-c699a617.png
-   identical  build/assets/images/blog/mobile-app-cd-gocd/analytics-dd27692c.png
-   identical  build/assets/images/blog/mobile-app-cd-gocd/gocd-labels-601cf430.png
-   identical  build/assets/images/image09-da3d56f1.png
-   identical  build/assets/images/blog/mobile-app-cd-gocd/sonarqube-quality-96da80f3.png
-   identical  build/assets/images/image08-da3d56f1.png
