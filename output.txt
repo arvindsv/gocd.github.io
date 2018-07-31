@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 12:13:26 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 609161f06e2087a57b3a4b19d9c4be3cf066b3c5
+
+
 Run at: Tue Jul 31 12:10:07 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/releases/17.2.0/template-permissions-73dc5171.png
    identical  build/assets/images/releases/17.11.0/vsm-explicit-link-vsm-header-95afe224.png
    identical  build/assets/images/releases/17.6.0/rerun-failed-jobs-182f21d2.png
-   identical  build/assets/images/releases/17.6.0/improve-timestamp-rendering-2-41be5dda.png
-   identical  build/assets/images/releases/15.3/update-check-info-e75610b1.png
-   identical  build/assets/images/releases/15.3/update-check-bell-224e93de.png
-   identical  build/assets/images/releases/18.3.0/plugin-error-warning-messages-0bbd0095.png
-   identical  build/assets/images/releases/18.3.0/new-dashboard-dd0bd431.png
-   identical  build/assets/images/releases/16.10/agents-page-old-9d4fe063.png
-   identical  build/assets/images/releases/15.2/console-log-color-9cb3f569.png
-   identical  build/assets/images/releases/18.7.0/loading-screen-d4d02113.png
-   identical  build/assets/images/releases/18.7.0/data-sharing-ae8581cb.png
-   identical  build/assets/images/releases/16.10/agents-page-beta-29cf3ee0.png
-   identical  build/assets/images/releases/17.9.0/elastic-agent-grouping-by-plugin-id-3f70396b.png
-   identical  build/assets/images/releases/17.9.0/edit-pipeline-from-vsm-008fac52.png
