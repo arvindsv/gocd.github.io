@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 10:06:05 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 609161f06e2087a57b3a4b19d9c4be3cf066b3c5
+
+
 Run at: Tue Jul 31 10:02:41 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/campaign/cd101/815-booklet-mockup-40c8ffce.jpg
    identical  build/assets/images/videos/go-failed-smoke-test-82510d2b.jpg
    identical  build/assets/images/campaign/enterprise/ccoal_bkgd-91448e8b.jpg
-   identical  build/assets/images/campaign/enterprise/ent-bkgd-test3-5a086c8c.jpg
-   identical  build/assets/images/campaign/enterprise/ent-bkgd-test2-31802b54.jpg
-   identical  build/assets/images/campaign/enterprise/ent-bkgd-test1-d837841d.jpg
-   identical  build/assets/images/campaign/chef/chef-hero-8c70c384.jpg
-   identical  build/assets/images/campaign/jenkins/jenkins-hero-ca8f8af3.jpg
-   identical  build/assets/images/campaign/elastic-agents/elastic-agents-banner1-f33fbef8.jpg
-   identical  build/assets/images/campaign/elastic-agents/elastic-agents-banner-d74e12d9.jpg
-   identical  build/assets/images/campaign/elastic-agents/771--hero-0ca41611.jpg
-   identical  build/assets/images/campaign/kubernetes/k8s-bkgd-blk-58c33514.jpg
-   identical  build/assets/images/campaign/kubernetes/k8s-bkgd-a3f53758.jpg
-   identical  build/assets/images/campaign/jenkins/jenkins-hero-3-04215858.jpg
-   identical  build/assets/images/campaign/analytics/build_time-07eef676.jpg
