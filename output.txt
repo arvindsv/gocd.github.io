@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 21:15:13 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Tue Jul 31 21:11:50 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
      updated  build/2017/11/28/confessions-continuous-delivery-experts-gocd-open-source.html
      updated  build/2017/10/31/mobile-app-continuous-delivery-gocd.html
      updated  build/2015/07/07/GitHub-Integration.html
-     updated  build/2017/09/05/misconceptions-patterns-devops-adoption.html
-     updated  build/2014/04/24/agent-bootstrapper-upgrade-for-plugins.html
-     updated  build/2014/02/24/deploy-package-not-just-tag-branch-or-binary.html
-     updated  build/2014/06/05/using-go-cd-with-custom-certificates.html
-     updated  build/2014/02/24/go-template-permissions.html
-     updated  build/2015/06/18/authentication-end-point.html
-     updated  build/2017/05/09/continuous-integration-devops-research.html
-     updated  build/2014/05/18/manage-agents-with-docker.html
-     updated  build/2017/04/17/build-propagation-using-fan-in-fan-out.html
-     updated  build/2018/05/30/ci-microservices-feature-toggles-trunk-based-development.html
-     updated  build/2015/10/19/gocd-snap-at-devops-enterprise-summit.html
-     updated  build/2017/07/10/gocd-vs-spinnaker.html
