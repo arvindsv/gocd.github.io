@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 12:43:29 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 609161f06e2087a57b3a4b19d9c4be3cf066b3c5
+
+
 Run at: Tue Jul 31 12:40:08 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ HEAD is now at 30801fa3f Update output
 
 Checkout to master: git checkout master
 ------
-Switched to branch 'master'
-Your branch is behind 'up/master' by 3 commits, and can be fast-forwarded.
-  (use "git pull" to update your local branch)
-
-Delete branch: git branch -D temp-work-branch
-------
-Deleted branch temp-work-branch (was 68cbd1a78).
-
-Recreate branch: git checkout -b temp-work-branch ck/geting_started_experience_updated
-------
-Switched to a new branch 'temp-work-branch'
-Branch temp-work-branch set up to track remote branch geting_started_experience_updated from ck.
