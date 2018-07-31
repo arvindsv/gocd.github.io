@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 08:17:28 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 38c0713d32430c1d3017998aeea85e77988cc652
+
+
 Run at: Tue Jul 31 08:14:09 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/101/index.html
    identical  build/community/index.html
    identical  build/tags/announcements/index.html
-   identical  build/tags/selling-devops/index.html
-   identical  build/tags/modeling-deployment-pipelines/index.html
-   identical  build/tags/cd-for-microservices/index.html
-   identical  build/tags/cd-101/index.html
-   identical  build/tags/continuous-deployment-strategies/index.html
-   identical  build/tags/it-s-not-cd-if-you-can-t-deploy-right-now/index.html
-   identical  build/tags/are-you-ready-for-continuous-delivery/index.html
-   identical  build/tags/cd-hacks/index.html
-   identical  build/tags/infographic/index.html
-   identical  build/tags/cd-confessions/index.html
-   identical  build/2018/index.html
-   identical  build/2018/07/index.html
