@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 11:59:53 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 609161f06e2087a57b3a4b19d9c4be3cf066b3c5
+
+
 Run at: Tue Jul 31 11:56:31 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/image10-554cdcff.png
    identical  build/assets/images/go-cd-QA-pipeline-64230cf5.png
    identical  build/assets/images/blog/cd-confessions-mingle/feedback-loops-a69c8139.png
-   identical  build/assets/images/blog/hello-world-with-go/media_1394063534943-251780ef.png
-   identical  build/assets/images/blog/hello-world-with-go/media_1394063203663-defb74a5.png
-   identical  build/assets/images/blog/hello-world-with-go/media_1394063238598-cc4cd6e6.png
-   identical  build/assets/images/blog/hello-world-with-go/media_1394063391538-70cbaf26.png
-   identical  build/assets/images/blog/source-code-for-go-now-available/summary_image-05a17ee5.png
-   identical  build/assets/images/blog/agent-bootstrapper-upgrade-for-plugins/summary_image-925c9056.png
-   identical  build/assets/images/blog/cd-confession-snapci/continuous-delivery-confessions-snapci-de12716b.png
-   identical  build/assets/images/blog/mark-failfast5-d9d38b33.png
-   identical  build/assets/images/blog/gocd-versions/gocd_15_2-d6c97247.png
-   identical  build/assets/images/blog/gocd-versions/gocd_14_1-c5732d40.png
-   identical  build/assets/images/blog/gocd-versions/gocd_14_3-a3f5bfc9.png
-   identical  build/assets/images/blog/Permissions1-0658062a.png
