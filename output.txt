@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 19:46:54 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Tue Jul 31 19:43:00 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Ran on 669 files!
 HTML-Proofer finished successfully.
 cd -
 cd /code
-cd -
-cd /code/build
-git add --all
-git commit -m "Site updated to 4a1a8da4e"
-[gh-pages 561aaf6] Site updated to 4a1a8da4e
- 632 files changed, 679 insertions(+), 5653 deletions(-)
- rename assets/stylesheets/{site-c5ba96af.css => site-7943c669.css} (67%)
- delete mode 100644 output.txt
-git push me gh-pages
-To github.com:arvindsv/www.go.cd.git
-   03ca687..561aaf6  gh-pages -> gh-pages
-cd -
