@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 12:26:42 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 609161f06e2087a57b3a4b19d9c4be3cf066b3c5
+
+
 Run at: Tue Jul 31 12:23:24 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Switched to a new branch 'gh-pages'
 Branch gh-pages set up to track remote branch gh-pages from me.
 cd -
 cd /code/build
-git fetch --depth 1 me gh-pages
-From github.com:arvindsv/www.go.cd
- * branch            gh-pages   -> FETCH_HEAD
-git reset --hard me/gh-pages
-HEAD is now at 30801fa Update output
-cd -
-mv /code/build/.git /tmp/d20180730-7901-jusdf9
-cd /code
-bundle exec middleman build --clean
-DEPRECATION WARNING on line 22, column 11 of /usr/local/bundle/gems/neat-2.1.0/core/neat/mixins/_grid-container.scss:
-Unescaped multiline strings are deprecated and will be removed in a future version of Sass.
-To include a newline in a string, use "\a" or "\a " as in CSS.
