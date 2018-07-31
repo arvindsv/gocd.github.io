@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 22:46:47 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Tue Jul 31 22:43:24 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
      updated  build/2017/05/23/control-deployments-manual-approvals/index.html
      updated  build/2015/06/23/hardly-anyone-knows-cd/index.html
      updated  build/2017/04/06/reusing-pipelines/index.html
-     updated  build/2018/02/27/running-end-to-end-tests-kubernetes/index.html
-     updated  build/2017/11/07/confessions-stories-continuous-delivery-mingle-project-management-tool/index.html
-     updated  build/2014/02/25/why-we-need-to-practice-cd/index.html
-     updated  build/2017/03/29/beginnings-of-a-real-pipeline/index.html
-     updated  build/2017/05/02/what-does-pipelines-as-code-really-mean/index.html
-     updated  build/2017/06/13/modeling-deployment-pipelines-agents-environments/index.html
-     updated  build/2015/06/13/using-windows-powershell-tasks/index.html
-     updated  build/2016/07/13/DotNet-Core-and-GoCD/index.html
-     updated  build/2017/04/25/gocd-over-jenkins/index.html
-     updated  build/2014/12/17/Go_14_4_announced/index.html
-     updated  build/2014/02/25/go-moving-to-open-source/index.html
-     updated  build/2017/06/22/deployment-pipeline-patterns-infographic/index.html
