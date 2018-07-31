@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 22:43:24 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Tue Jul 31 22:40:01 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
      updated  build/2014/12/17/Go_14_4_announced/index.html
      updated  build/2014/02/25/go-moving-to-open-source/index.html
      updated  build/2017/06/22/deployment-pipeline-patterns-infographic/index.html
-     updated  build/2018/02/13/managing-build-versions-pipeline/index.html
-     updated  build/2017/09/26/are-you-ready-for-continuous-delivery-infographic/index.html
-     updated  build/2015/04/23/Go_15_1_jdk7_announcement/index.html
-     updated  build/2014/02/24/model-everything-fail-fast/index.html
-     updated  build/2017/06/26/serverless-architecture-continuous-delivery/index.html
-     updated  build/2014/02/24/how-peg-your-pipeline-dependency-version/index.html
-     updated  build/contribute/index.html
-   identical  build/googlebac7590bd2b477d8/index.html
-     updated  build/plugins/index.html
-     updated  build/next-release/index.html
-     updated  build/enterprise/thoughtworks-go-extensions-eula/index.html
-     updated  build/enterprise/contact/index.html
