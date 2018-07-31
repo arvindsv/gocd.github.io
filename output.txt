@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 10:50:16 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 609161f06e2087a57b3a4b19d9c4be3cf066b3c5
+
+
 Run at: Tue Jul 31 10:46:54 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/download/osx-f6878654.png
    identical  build/assets/images/bg-pattern-470c69ee.png
    identical  build/assets/images/download/redhat-e885fd18.png
-   identical  build/assets/images/campaign/cd101/cd101-banner-blank-4ef9359a.png
-   identical  build/assets/images/campaign/cd101/cd101-banner2-fed55b97.png
-   identical  build/assets/images/campaign/cd101/cd101-banner-4869e4af.png
-   identical  build/assets/images/campaign/chef/install-82df815e.png
-   identical  build/assets/images/campaign/chef/cookbook-71ce2a4a.png
-   identical  build/assets/images/campaign/chef/configure-8bca3c23.png
-   identical  build/assets/images/campaign/elastic-agents/771-spot_illo_3-59bccaf1.png
-   identical  build/assets/images/campaign/analytics/utilization-9db169f8.png
-   identical  build/assets/images/campaign/elastic-agents/771-spot_illo_2-95655f15.png
-   identical  build/assets/images/campaign/analytics/wait_time-c043b9dd.png
-   identical  build/assets/images/go-gauge-specs-3d290b06.png
-   identical  build/assets/images/rss-icon-d175b643.png
