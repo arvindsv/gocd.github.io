@@ -1,9 +1,9 @@
-Last updated: 2018-07-30 20:06:43 +0000
+Last updated: 2018-07-31 09:31:06 +0000
 
 Latest commit:
-    commit 875506d1dba2be9add85037a385ec9d8be2c95dc
-    Author: Aravind SV <mail@arvindsv.com>
-    Date:   Mon Jul 30 16:03:39 2018 -0400
+    commit 4a1a8da4ec76c78c4fae8e016b18cd64ebf90b5e
+    Author: Chandu199 <n.chandrakanth0@gmail.com>
+    Date:   Tue Jul 31 14:57:21 2018 +0530
     
-        Test commit
+        added recommended steps from mockup
     

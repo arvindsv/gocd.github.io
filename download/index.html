@@ -15,7 +15,7 @@
 
     <title>Download for Free - Server and Agent | GoCD</title>
     <link href="../assets/images/favicon.ico" rel="shortcut icon" />
-    <link href="../assets/stylesheets/site-c5ba96af.css" rel="stylesheet" />
+    <link href="../assets/stylesheets/site-7943c669.css" rel="stylesheet" />
     <script src="../assets/javascripts/all-4311e8ab.js"></script>
     
     <link rel="alternate" type="application/atom+xml" title="GoCD blog feed" href="../feed.xml" />
@@ -138,15 +138,7 @@
         <div id="downloads"></div>
       </div>
       <div class="col-sm-4 col-lg-3 col-md-3">
-        <ul class="help-links" id="help-links">
-          <li><a href="../releases/" target="_blank">Release notes</a></li>
-          <li><a href="https://docs.gocd.org/current/installation/system_requirements.html"  target="_blank">System requirements</a></li>
-          <li><a href="https://docs.gocd.org/current/installation/install/server/linux.html"  target="_blank">Server Installation
-            Instructions</a></li>
-          <li><a href="https://docs.gocd.org/current/installation/install/agent/linux.html"  target="_blank">Agent Installation
-            Instructions</a></li>
-        </ul>
-        <p class="join">If you need help downloading, installing or using GoCD please join the <a href="https://groups.google.com/forum/#!forum/go-cd" target="_blank">GoCD Users Google Group</a>.</p>
+      
 
         <div class='subscribe-to-blog blogpost'>
           <h3 class='subscribe-title'>Want updates about GoCD releases?</h3>
@@ -215,9 +207,30 @@
         </div>
       </div>
     </div>
+  
+    <div class="steps-section">
+      <h3>Recommended Installation </h3>
+      <ul class="recommended-list">
+        <li>1. Select your OS</li>
+        <li>2. Download Latest Stable Server</li>
+        <li>3. Download Latest Stable Agent</li>
+        <li>4. Install Server <a href="#">GoCD Server Installation Instructions</a> </li>
+        <li>5. Install Agent  (link to docs) <a href="#">GOCD Agent Installation Instructions</a></li>
+        <li>6.
+            <ul class="recommended-list_child">
+              <li>If this your first time using GoCD, we eecommend following our <a href="#">Intro to GoCD</a> guide</li>
+              <li>If you have prior experience with CD tools, here is our <a href="#">product documentation</a></li>
+            </ul>
+        </li>
+      </ul>
+      <p><a href="#"> Release Notes</a></p>
+      <p><a href="#">System Requirements</a></p>
+    </div>
+
     <div class="other-releases">
       <button class="btn-release" analytics-label="show-old-releases"><span>Show</span> old releases</button>
     </div>
+
     <div class="old-release">
       {{#each all_other_releases}}
       <div class="row go-release {{display_version}}">
