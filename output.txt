@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 12:33:24 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 609161f06e2087a57b3a4b19d9c4be3cf066b3c5
+
+
 Run at: Tue Jul 31 12:30:04 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ cd /code/build
 git init
 Initialized empty Git repository in /code/build/.git/
 git remote add me git@github.com:arvindsv/www.go.cd.git
-git fetch --depth 1 me
-From github.com:arvindsv/www.go.cd
- * [new branch]      add-guest-login-plugin -> me/add-guest-login-plugin
- * [new branch]      allow-header-changes-in-tag-pages -> me/allow-header-changes-in-tag-pages
- * [new branch]      change-map-projection  -> me/change-map-projection
- * [new branch]      clarify-auth-plugin-deprecation -> me/clarify-auth-plugin-deprecation
- * [new branch]      fix-font-slowness      -> me/fix-font-slowness
- * [new branch]      fix-horizontal-scroll  -> me/fix-horizontal-scroll
- * [new branch]      gh-pages               -> me/gh-pages
- * [new branch]      load-marketo-async     -> me/load-marketo-async
- * [new branch]      master                 -> me/master
- * [new branch]      new-downloads-page     -> me/new-downloads-page
