@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 10:22:54 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 609161f06e2087a57b3a4b19d9c4be3cf066b3c5
+
+
 Run at: Tue Jul 31 10:19:33 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/blog/cd-considerations/configuration-strategy-95389633.jpg
    identical  build/assets/images/blog/cd-considerations/tbd-feature-toggles-bcdf66d0.jpg
    identical  build/assets/images/blog/cd-considerations/cd-microservices-configuration-strategy-95389633.jpg
-   identical  build/assets/images/blog/cd-considerations/test-strategy-microservices-a668284d.jpg
-   identical  build/assets/images/blog/importance-cd-pipelines/importance_pipelines_hero-58d38841.jpg
-   identical  build/assets/images/blog/elastic-agents/elastic-agent-hero-995aca63.jpg
-   identical  build/assets/images/blog/high-centered-team/sunkcosts_masthead-c1ddda92.jpg
-   identical  build/assets/images/blog/beginners-guide-cd/beginners-guide-cd-header-d0a7319f.jpg
-   identical  build/assets/images/blog/high-centered-team/truck-149df877.jpg
-   identical  build/assets/images/blog/no-one-agrees-define-ci-cd/deployment-wordcloud-5df3e112.jpg
-   identical  build/assets/images/blog/no-one-agrees-define-ci-cd/no-one-can-agree-ci-cd-hero-693779a7.jpg
-   identical  build/assets/images/blog/no-one-agrees-define-ci-cd/tools-5f584a98.jpg
-   identical  build/assets/images/blog/no-one-agrees-define-ci-cd/delivery-wordcloud-6fd91655.jpg
-   identical  build/assets/images/blog/no-one-agrees-define-ci-cd/affinitywall-3a2cf6af.jpg
-   identical  build/assets/images/blog/hotfix-rollback/hotfix-rollback-hero-ecabe937.jpg
