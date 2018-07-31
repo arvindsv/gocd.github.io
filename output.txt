@@ -1,5 +1,17 @@
 
 
+Run at: Tue Jul 31 23:14:04 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Tue Jul 31 23:10:39 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/javascripts/marketo_popover-2ee090ae.js
      updated  build/index.html
      updated  build/videos/index.html
-     updated  build/misc/generate-patched-jar-for-deserialization-vulnerability/index.html
-     updated  build/cd101/index.html
-     updated  build/sales-sign-up/index.html
-     updated  build/enterprise-campaign/index.html
-     updated  build/2015/12/22/gocd-in-2016/index.html
-     updated  build/2014/11/11/Go_14_3_announced/index.html
-     updated  build/2017/06/01/forever-home/index.html
-     updated  build/blog/index.html
-     updated  build/2017/09/19/actions-spread-devops-adoption/index.html
-     updated  build/2014/11/14/Go_14_3_issue_with_uploading_compressed_artifacts/index.html
-     updated  build/2016/03/24/how-to-avoid-brittle-code/index.html
-     updated  build/2017/06/20/hotfixes-rollback-rollforward/index.html
