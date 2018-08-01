@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 10:17:19 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 10:14:00 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
      updated  build/2017/07/10/gocd-vs-spinnaker.html
      updated  build/2017/12/06/confessions-continuous-delivery-experts-snapci-microservices-monolith.html
      updated  build/2017/08/31/apax-acquires-thoughtworks.html
-     updated  build/2015/05/06/Getting-Started-Resources.html
-     updated  build/2015/06/17/Upcoming-API-Changes.html
-     updated  build/2014/08/19/cloning-templates.html
-     updated  build/2018/03/21/continuous-delivery-gocd-kubernetes.html
-     updated  build/2017/08/08/gocd-elastic-agents-benefits.html
-     updated  build/2014/07/09/stopping-support-for-java-jdk-6.html
-     updated  build/2014/02/24/build-promotion-go.html
-     updated  build/2018/05/08/continuous-delivery-microservices-test-strategy.html
-     updated  build/2017/07/20/deployment-pipeline-automated-testing.html
-     updated  build/2015/04/27/Feature-Branch-Support.html
-     updated  build/2015/08/28/pipeline-patterns.html
-     updated  build/2016/06/08/Add-performance-testing-to-your-Continuous-Delivery-pipeline.html
