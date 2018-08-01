@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 00:36:21 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 00:32:56 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/rss-icon-d175b643.png
    identical  build/assets/images/promote-trusted-artifacts-bb483c0c.png
    identical  build/assets/images/go-gauge-specs-3d290b06.png
-   identical  build/assets/images/author-mohan-2781e880.png
-   identical  build/assets/images/go.cd_agent-e1db9f64.png
-   identical  build/assets/images/acceptnace-test-build-time-6e0b8af7.png
-   identical  build/assets/images/no-timestamps-in-console-logs-example-a63eaf2d.png
-   identical  build/assets/images/go-banner-phone.jpg-4b6f8001.png
-   identical  build/assets/images/version-bg-ad19c611.png
-   identical  build/assets/images/blog/manual-gates/dummy-stage-8006248e.jpeg
-   identical  build/assets/images/blog/agents-environments/pipeline-with-environment-agents-4cefb1b7.jpeg
-   identical  build/assets/images/blog/gocd-vs-spinnaker/concerns-CD-workflow-b113290e.jpeg
-   identical  build/assets/images/blog/continuous-deployment-strategies/blue-green-deployments-d73adc69.jpeg
-   identical  build/assets/images/blog/are-you-ready-for-continuous-delivery/woodline-02b5f243.jpeg
-   identical  build/assets/images/blog/continuous-deployment-strategies/canary-release-5c74ac79.jpeg
