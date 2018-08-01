@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 13:10:30 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 13:07:12 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/blog/hardly-anyone-knows-cd/01_CD_the_idea_low-res-aa3d8a60.jpg
    identical  build/assets/images/blog/add-performance-testing/add-performance-2b3ca1b1.jpg
    identical  build/assets/images/blog/add-performance-testing/add-performance-testing-to-your-continuous-delivery-pipeline-f09d6a66.jpg
-   identical  build/assets/images/blog/add-performance-testing/stress-test-3a7430f8.jpg
-   identical  build/assets/images/blog/add-performance-testing/load-test-4a8d0de7.jpg
-   identical  build/assets/images/blog/add-performance-testing/spike-test-4b37b4b6.jpg
-   identical  build/assets/images/blog/driving-change-devops/spreading-devops-adoption-4387ffdb.jpg
-   identical  build/assets/images/blog/driving-change-devops/part-2-cant-buy-devops-48f30921.jpg
-   identical  build/assets/images/blog/driving-change-devops/cannot-buy-devops-you-can-sell-devops-28115ba7.jpg
-   identical  build/assets/images/blog/driving-change-devops/driving-change-devops-hero-a5d5b1d4.jpg
-   identical  build/assets/images/blog/beginnings-real-pipeline/pipeline-01-7fb30a06.jpg
-   identical  build/assets/images/blog/beginnings-real-pipeline/pipeline-03-7fbc9b91.jpg
-   identical  build/assets/images/blog/gocd-in-2016/summary_image-f28ca58c.jpg
-   identical  build/assets/images/blog/gocd-in-2016/9777304813_645817bfdf_h_small_cropped-f28ca58c.jpg
-   identical  build/assets/images/blog/beginnings-real-pipeline/pipeline-02-2e6553b3.jpg
