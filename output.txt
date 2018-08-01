@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 09:01:40 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 08:58:23 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ WARNING: Not checking outbound links. But, build will check them. Set environmen
 cp -r build/ /tmp/d20180731-3443-71vl1r/subdir
 cd /tmp/d20180731-3443-71vl1r
 
-Running link checks, html format and verifying that it can be hosted in a subdirectory (relative links):
-Running ["HtmlCheck", "LinkCheck", "ScriptCheck", "ImageCheck", "ProperHTMLCheck"] on ["."] on *.html... 
-
-
-Ran on 669 files!
-
-
-HTML-Proofer finished successfully.
-cd -
-cd /code
-cd -
-cd /code/build
