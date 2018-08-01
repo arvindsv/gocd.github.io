@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 13:00:30 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 12:57:10 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/videos/go-fundamental-concepts-3643ce4a.jpg
    identical  build/assets/images/videos/go-value-stream-map-d215777c.jpg
    identical  build/assets/images/videos/go-linking-dependencies-f51246fd.jpg
-   identical  build/assets/images/model-complex-worklflows-8b2fd43e.jpg
-   identical  build/assets/images/videos/go-failed-smoke-test-82510d2b.jpg
-   identical  build/assets/images/videos/go-command-repo-4cd595b8.jpg
-   identical  build/assets/images/campaign/cd101/815-booklet-mockup-40c8ffce.jpg
-   identical  build/assets/images/videos/go-fan-out-fan-dda14cdd.jpg
-   identical  build/assets/images/campaign/enterprise/ent-bkgd-test1-d837841d.jpg
-   identical  build/assets/images/campaign/enterprise/ccoal_bkgd-91448e8b.jpg
-   identical  build/assets/images/campaign/enterprise/ent-bkgd-test3-5a086c8c.jpg
-   identical  build/assets/images/campaign/enterprise/ent-bkgd-test2-31802b54.jpg
-   identical  build/assets/images/campaign/chef/chef-hero-8c70c384.jpg
-   identical  build/assets/images/campaign/elastic-agents/771--hero-0ca41611.jpg
-   identical  build/assets/images/campaign/elastic-agents/elastic-agents-banner1-f33fbef8.jpg
