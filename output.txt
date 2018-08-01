@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 12:53:48 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 12:50:27 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/go-banner-phone-30701141.jpg
    identical  build/assets/images/go-banner-tablet-b5881e67.jpg
    identical  build/assets/images/go-banner-3de3d3a0.jpg
-   identical  build/assets/images/gocd_continuous_delivery_thoughtworks_twitter-e8d93d6f.jpg
-   identical  build/assets/images/releases/17.4.0/job_history-cb7e5a4e.gif
-   identical  build/assets/images/releases/17.4.0/expand_logs-49fa414c.gif
-   identical  build/assets/images/go.cd_pipelines-materials-e64b8575.svg
-   identical  build/assets/images/lightbox-arrow-e5c1fbd9.svg
-   identical  build/assets/images/go.cd_server-and-agents-8a7f4cd3.svg
-   identical  build/assets/images/home/ui_illo-647c5fa8.svg
-   identical  build/assets/images/go_logo-5b5ca9e1.svg
-   identical  build/assets/images/Go_watermark_logo-c6c0c15b.svg
-   identical  build/assets/images/go.cd_keep-configuration-tidy-c6a43973.svg
-   identical  build/assets/images/go.cd_trust-your-team-ae0d921b.svg
-   identical  build/assets/images/dld-rpm-a111e275.svg
