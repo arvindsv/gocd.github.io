@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 15:10:34 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 15:07:17 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ The result of `0px == 0` will be `false` in future releases of Sass.
 Unitless numbers will no longer be equal to the same numbers with units.
 
 DEPRECATION WARNING on line 19 of /usr/local/bundle/gems/neat-2.1.0/core/neat/functions/_neat-column-width.scss:
-The result of `0px == 0` will be `false` in future releases of Sass.
-Unitless numbers will no longer be equal to the same numbers with units.
-
-DEPRECATION WARNING on line 19 of /usr/local/bundle/gems/neat-2.1.0/core/neat/functions/_neat-column-width.scss:
-The result of `0px == 0` will be `false` in future releases of Sass.
-Unitless numbers will no longer be equal to the same numbers with units.
-
-== Blog Sources: posts/{year}-{month}-{day}-{title}.html (:prefix + :sources)
-   identical  build/assets/stylesheets/site-7943c669.css
-   identical  build/assets/images/see-how-things-work-ff28c0ec.png
-   identical  build/assets/images/go-logo-small-0cc554b3.png
-   identical  build/assets/images/enterprise-Analytics-forAddons-8fabc3e1.png
