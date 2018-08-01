@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 14:23:47 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 14:20:28 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/blog/authentication-plugins/successful-login-a699ce6f.png
    identical  build/assets/images/blog/authentication-plugins/login-page-b00e9881.png
    identical  build/assets/images/blog/authentication-plugins/configure-plugin-5a5b3512.png
-   identical  build/assets/images/blog/authentication-plugins/generate-oauth-token-3fb15337.png
-   identical  build/assets/images/blog/webinar-recording/webinar-recording-4-f20aa3b0.png
-   identical  build/assets/images/blog/webinar-recording/webinar-recording-3-b790e151.png
-   identical  build/assets/images/blog/webinar-recording/webinar-recording-5-fc90b5f8.png
-   identical  build/assets/images/blog/webinar-recording/webinar-recording-1-b761531e.png
-   identical  build/assets/images/blog/webinar-recording/webinar-recording-2-c64ada41.png
-   identical  build/assets/images/blog/run-x-instance/11-1-b8855dee.png
-   identical  build/assets/images/blog/run-x-instance/11-2-19aa7f49.png
-   identical  build/assets/images/blog/run-x-instance/9-9d8fd047.png
-   identical  build/assets/images/blog/run-x-instance/8-b478f0af.png
-   identical  build/assets/images/blog/run-x-instance/10-fe33e252.png
-   identical  build/assets/images/blog/run-x-instance/4-9650ff39.png
