@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 14:37:11 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 14:33:50 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/blog/dotnet-core-gocd/fetch_artifacts-15559133.png
    identical  build/assets/images/blog/dotnet-core-gocd/agent-pkg-51ae766c.png
    identical  build/assets/images/blog/dotnet-core-gocd/dotnet_core_masthead-1bb6cb32.png
-   identical  build/assets/images/blog/dotnet-core-gocd/value-stream-map-73b88bd3.png
-   identical  build/assets/images/blog/dotnet-core-gocd/pipeline-material-61624efe.png
-   identical  build/assets/images/blog/dotnet-core-gocd/manualAcceptanceTestExample-92375ac6.png
-   identical  build/assets/images/blog/dotnet-core-gocd/pipeline-6fc7697d.png
-   identical  build/assets/images/blog/tracingprod1-1c3ed7f0.png
-   identical  build/assets/images/blog/are-you-ready-for-continuous-delivery/gocd_thoughtworks_continuous_integration_feedback_loops-8325bf92.png
-   identical  build/assets/images/blog/are-you-ready-for-continuous-delivery/gocd_thoughtworks_continuous_delivery_feedback_loops-cb9bdbe3.png
-   identical  build/assets/images/blog/sriram-peg2-9f490080.png
-   identical  build/assets/images/blog/plugin-settings/configure-plugin-errors-3678f632.png
-   identical  build/assets/images/blog/plugin-settings/configure-plugin-8e65ded3.png
-   identical  build/assets/images/blog/plugin-settings/list-plugin-37a71798.png
-   identical  build/assets/images/blog/cd-hacks/edit_material_whitelist-1592dc8d.png
