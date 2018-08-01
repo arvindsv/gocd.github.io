@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 15:07:17 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 15:03:55 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/see-how-things-work-ff28c0ec.png
    identical  build/assets/images/go-logo-small-0cc554b3.png
    identical  build/assets/images/enterprise-Analytics-forAddons-8fabc3e1.png
-   identical  build/assets/images/deploy-any-version-d66b0f45.png
-   identical  build/assets/images/releases/16.12/agents-page-b520368d.png
-   identical  build/assets/images/releases/17.12.0/Plugins-SPA-73593efd.png
-   identical  build/assets/images/releases/17.5.0/security-menu-d1aed431.png
-   identical  build/assets/images/releases/17.5.0/auth-config-e288de5a.png
-   identical  build/assets/images/releases/16.12/new-theme-912e9418.png
-   identical  build/assets/images/releases/16.12/elastic-profiles-add-new-eb4f88a3.png
-   identical  build/assets/images/releases/17.5.0/role-config-4127629c.png
-   identical  build/assets/images/releases/17.2.0/template-permissions-73dc5171.png
-   identical  build/assets/images/releases/17.11.0/pipeline-run-duration-in-vsm-4d3bffed.png
-   identical  build/assets/images/releases/16.3/git-shallow-clone-e82e142c.png
-   identical  build/assets/images/releases/17.11.0/vsm-explicit-link-dashboard-ca369c86.png
