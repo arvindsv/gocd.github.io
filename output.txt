@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 13:47:17 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 13:43:56 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/getting-started/part-1/10a-pipeline-building-dashboard-c22c699b.png
    identical  build/assets/images/getting-started/part-1/14-environment-variables-34b793b1.png
    identical  build/assets/images/getting-started/part-1/13-output-of-job-4fce197c.png
-   identical  build/assets/images/getting-started/part-1/12-information-about-the-stage-21da9f48.png
-   identical  build/assets/images/getting-started/part-1/11a-pipeline-finished-new-dashboard-91e8dfbe.png
-   identical  build/assets/images/getting-started/part-1/4-step-2a-9f39d601.png
-   identical  build/assets/images/getting-started/part-1/8-step-3c-1bfdef0f.png
-   identical  build/assets/images/getting-started/custom-command-ea9f5535.png
-   identical  build/assets/images/getting-started/name-your-pipeline-cbbe9c97.png
-   identical  build/assets/images/getting-started/autocompletion-of-the-pipeline-dependency-material-351e8d25.png
-   identical  build/assets/images/getting-started/initial-job-and-task-ad6e3eca.png
-   identical  build/assets/images/getting-started/this-is-how-the-tasks-should-look-like-01685645.png
-   identical  build/assets/images/getting-started/job-run-details-b5eacb09.png
-   identical  build/assets/images/getting-started/dependent-pipelines-in-a-valuestream-map-06de9ca9.png
-   identical  build/assets/images/download/debian-caaee6dc.png
