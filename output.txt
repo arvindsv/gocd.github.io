@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 12:50:27 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 12:47:07 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/go.cd_keep-configuration-tidy-c6a43973.svg
    identical  build/assets/images/go.cd_trust-your-team-ae0d921b.svg
    identical  build/assets/images/dld-rpm-a111e275.svg
-   identical  build/assets/images/go.cd_decide-66f54e71.svg
-   identical  build/assets/images/go.cd_why-go-plugins-f59a63a3.svg
-   identical  build/assets/images/go.cd_merge-eabd7739.svg
-   identical  build/assets/images/go.cd_run-and-grok-your-tests-a04b0bac.svg
-   identical  build/assets/images/go.cd_Deploy-any-version-anytime-d2db9a66.svg
-   identical  build/assets/images/dld-zip-073204d1.svg
-   identical  build/assets/images/dld-ami-5a539ddb.svg
-   identical  build/assets/images/go.cd_pull-request-b418521e.svg
-   identical  build/assets/images/go.cd_changes-a75c578f.svg
-   identical  build/assets/images/dld-win-fa0f769a.svg
-   identical  build/assets/images/go.cd_Model-complex-workflows-0eb00251.svg
-   identical  build/assets/images/go.cd_Compare-Builds-33d3164a.svg
