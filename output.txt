@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 12:40:24 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 12:37:05 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/go.cd_form-cb660f66.svg
    identical  build/assets/images/go.cd_user-documentation-36dc7dba.svg
    identical  build/assets/images/icons/go.cd_code-for-gocd-61ebd40f.svg
-   identical  build/assets/images/icons/go.cd_trust-your-team-f21f86c3.svg
-   identical  build/assets/images/icons/go.cd_keep-configuration-tidy-2129d3db.svg
-   identical  build/assets/images/icons/go.cd_run-and-grok-your-tests-f25e60ad.svg
-   identical  build/assets/images/icons/go.cd_deploy-any-version-anytime-b7041220.svg
-   identical  build/assets/images/icons/go.cd_model-complex-workflows-9b181d3c.svg
-   identical  build/assets/images/icons/go.cd_compare-builds-a87196c2.svg
-   identical  build/assets/images/icons/go.cd_security-d3942ad4.svg
-   identical  build/assets/images/icons/go.cd_join-community-61198ca4.svg
-   identical  build/assets/images/icons/go.cd_promote-trusted-artifacts-5d5fc8ae.svg
-   identical  build/assets/images/icons/go.cd_see-how-things-really-work-d44e8c48.svg
-   identical  build/assets/images/icons/go.cd_community-0ebe9afa.svg
-   identical  build/assets/images/icons/go.cd_eliminate-bottlenecks-c1266c2a.svg
