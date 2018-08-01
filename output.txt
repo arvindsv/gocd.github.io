@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 15:30:47 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 15:27:28 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Delete branch: git branch -D temp-work-branch
 ------
 Deleted branch temp-work-branch (was 4a1a8da4e).
 
-Recreate branch: git checkout -b temp-work-branch ck/geting_started_experience_updated
-------
-Switched to a new branch 'temp-work-branch'
-Branch temp-work-branch set up to track remote branch geting_started_experience_updated from ck.
-
-Cleanup: git reset --hard HEAD
-------
-HEAD is now at 839308ac2 Temp hack to get past the CORS checks on preview
-
-Rebasing to master: git rebase up/master
-------
-First, rewinding head to replay your work on top of it...
