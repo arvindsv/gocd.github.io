@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 14:27:10 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 14:23:47 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/blog/sample-virtualbox/Virtualbox_logo-705f7f16.png
    identical  build/assets/images/blog/sample-virtualbox/vsm-8192b7e0.png
    identical  build/assets/images/blog/are-you-ready-for-continous-delivery-infographic/are-you-ready-for-CD-info-hero-ab1ff875.png
-   identical  build/assets/images/blog/sample-virtualbox/pipelines-af0e50ad.png
-   identical  build/assets/images/blog/are-you-ready-for-continous-delivery-infographic/ready-for-continous-delivery-infographic-5f550770.png
-   identical  build/assets/images/blog/go-cd-continuous-delivery-through-pipelines/goCD-architecture-f39bda5b.png
-   identical  build/assets/images/blog/go-cd-continuous-delivery-through-pipelines/goCD-fanIn-4f7b1e3b.png
-   identical  build/assets/images/blog/go-cd-continuous-delivery-through-pipelines/dieamond-problem-6c3b1401.png
-   identical  build/assets/images/blog/authentication-plugins/list-plugin-56a2f413.png
-   identical  build/assets/images/blog/using-go-cd-with-custom-certificates/summary_image-55b6cd48.png
-   identical  build/assets/images/blog/authentication-plugins/github-login-18b74573.png
-   identical  build/assets/images/blog/authentication-plugins/search-user-6d06f1b6.png
-   identical  build/assets/images/blog/authentication-plugins/successful-login-a699ce6f.png
-   identical  build/assets/images/blog/authentication-plugins/login-page-b00e9881.png
-   identical  build/assets/images/blog/authentication-plugins/configure-plugin-5a5b3512.png
