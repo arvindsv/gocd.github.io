@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 06:39:45 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 06:36:28 UTC 2018
 ====================================
 
@@ -4978,18 +4990,6 @@ Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and late
 
 
 Run at: Tue Jul 31 13:37:08 UTC 2018
-====================================
-
-
-Fetching changes: git fetch --multiple me up ck
-------
-Fetching me
-Fetching up
-Fetching ck
-Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 609161f06e2087a57b3a4b19d9c4be3cf066b3c5
-
-
-Run at: Tue Jul 31 13:33:44 UTC 2018
 ====================================
 
 
