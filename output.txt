@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 00:05:20 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 00:01:57 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/blog/driving-change-devops/part-2-cant-buy-devops-48f30921.jpg
    identical  build/assets/images/blog/driving-change-devops/spreading-devops-adoption-4387ffdb.jpg
    identical  build/assets/images/blog/gocd-in-2016/summary_image-f28ca58c.jpg
-   identical  build/assets/images/blog/gocd-in-2016/9777304813_645817bfdf_h_small_cropped-f28ca58c.jpg
-   identical  build/assets/images/blog/beginnings-real-pipeline/pipeline-03-7fbc9b91.jpg
-   identical  build/assets/images/blog/beginnings-real-pipeline/beginnings_pipelines_hero-ebbdcaab.jpg
-   identical  build/assets/images/blog/beginnings-real-pipeline/pipeline-01-7fb30a06.jpg
-   identical  build/assets/images/blog/beginnings-real-pipeline/pipeline-02-2e6553b3.jpg
-   identical  build/assets/images/blog/beginnings-real-pipeline/pipeline-05-c73cf40f.jpg
-   identical  build/assets/images/blog/product-manager-guide/product-manager-guide-hero-f291ec0f.jpg
-   identical  build/assets/images/blog/beginnings-real-pipeline/pipeline-04-60925b1e.jpg
-   identical  build/assets/images/blog/beginnings-real-pipeline/pipeline-06-1243d084.jpg
-   identical  build/assets/images/blog/reusing-pipelines/reusing-pipelines-hero-6de82f68.jpg
-   identical  build/assets/images/blog/pipelines-as-code/pipelines-as-code-hero-a3209f2b.jpg
-   identical  build/assets/images/blog/canary-releases/canary-releases-hero-6370dec9.jpg
