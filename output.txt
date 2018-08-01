@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 09:04:55 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 09:01:40 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
      updated  build/2017/page/2.html
      updated  build/2015/page/2.html
      updated  build/2017/page/4.html
-     updated  build/2015/page/3.html
-     updated  build/2014/page/2.html
-     updated  build/2014/page/3.html
-      remove  build/assets/javascripts/all-4311e8ab.js
-      remove  build/output.txt
-Project built successfully.
-cd -
-mv /tmp/d20180731-3443-1dl00db/.git /code/build
-WARNING: Not checking outbound links. But, build will check them. Set environment variable: RUN_EXTERNAL_CHECKS to 'true' to run them
-cp -r build/ /tmp/d20180731-3443-71vl1r/subdir
-cd /tmp/d20180731-3443-71vl1r
-
