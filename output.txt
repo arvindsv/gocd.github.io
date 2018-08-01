@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 15:20:43 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 15:17:14 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ From github.com:arvindsv/www.go.cd
  * [new branch]      allow-header-changes-in-tag-pages -> me/allow-header-changes-in-tag-pages
  * [new branch]      change-map-projection  -> me/change-map-projection
  * [new branch]      clarify-auth-plugin-deprecation -> me/clarify-auth-plugin-deprecation
- * [new branch]      fix-font-slowness      -> me/fix-font-slowness
- * [new branch]      fix-horizontal-scroll  -> me/fix-horizontal-scroll
- * [new branch]      gh-pages               -> me/gh-pages
- * [new branch]      load-marketo-async     -> me/load-marketo-async
- * [new branch]      master                 -> me/master
- * [new branch]      new-downloads-page     -> me/new-downloads-page
- * [new branch]      new-website            -> me/new-website
- * [new branch]      remove-marketo-temporarily -> me/remove-marketo-temporarily
- * [new branch]      remove-old-plugins     -> me/remove-old-plugins
- * [new branch]      remove-snap-link       -> me/remove-snap-link
- * [new branch]      tab-improvements       -> me/tab-improvements
- * [new branch]      update-release-notes-with-plugin-upgrade-details -> me/update-release-notes-with-plugin-upgrade-details
