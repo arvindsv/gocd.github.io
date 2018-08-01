@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 12:37:05 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 12:33:46 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/icons/go.cd_see-how-things-really-work-d44e8c48.svg
    identical  build/assets/images/icons/go.cd_community-0ebe9afa.svg
    identical  build/assets/images/icons/go.cd_eliminate-bottlenecks-c1266c2a.svg
-   identical  build/assets/images/icons/go.cd_plugins-d2b1494a.svg
-   identical  build/assets/images/icons/go.cd_test-gocd-a7b99d2f.svg
-   identical  build/assets/images/icons/go.cd_blog-about-gocd-fb55d4a8.svg
-   identical  build/assets/images/go.cd_See-how-things-really-work-0430fdc2.svg
-   identical  build/assets/images/go.cd_gocd-on-github-1b93b87e.svg
-   identical  build/assets/images/go.cd_installation-bcefac0e.svg
-   identical  build/assets/images/go.cd_setup-your-first-pipeline-6ece3a98.svg
-   identical  build/assets/images/campaign/enterprise/ec2-b607824f.svg
-   identical  build/assets/images/campaign/enterprise/postgres-82a803cd.svg
-   identical  build/assets/images/campaign/enterprise/adblock-6fed935d.svg
-   identical  build/assets/images/campaign/enterprise/support-8ca9a904.svg
-   identical  build/assets/images/campaign/enterprise/security-2897cd2a.svg
