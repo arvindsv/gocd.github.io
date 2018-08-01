@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 11:53:52 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 11:50:33 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
      updated  build/2017/07/20/deployment-pipeline-automated-testing/index.html
      updated  build/2018/05/08/continuous-delivery-microservices-test-strategy/index.html
      updated  build/2016/06/08/Add-performance-testing-to-your-Continuous-Delivery-pipeline/index.html
-     updated  build/2015/04/27/Feature-Branch-Support/index.html
-     updated  build/2015/06/18/plugin-settings/index.html
-     updated  build/2015/08/28/pipeline-patterns/index.html
-     updated  build/2015/04/29/Go_15_1_announced/index.html
-     updated  build/2018/06/12/cd-microservices-environment-strategy/index.html
-     updated  build/2017/05/23/control-deployments-manual-approvals/index.html
-     updated  build/2015/06/23/hardly-anyone-knows-cd/index.html
-     updated  build/2017/04/06/reusing-pipelines/index.html
-     updated  build/2018/02/27/running-end-to-end-tests-kubernetes/index.html
-     updated  build/2014/02/25/why-we-need-to-practice-cd/index.html
-     updated  build/2017/11/07/confessions-stories-continuous-delivery-mingle-project-management-tool/index.html
-     updated  build/2017/03/29/beginnings-of-a-real-pipeline/index.html
