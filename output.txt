@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 02:31:59 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 02:28:21 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Applying: Test commit
 Applying: added recommended steps from mockup
 Tue Jul 31 09:29:16 UTC 2018: Updating site to 609161f06e2087a57b3a4b19d9c4be3cf066b3c5 ...
 /code
-
-Build site and publish: bundle exec rake publish
-------
-mkdir -p /code/build
-cd /code
-cd -
-cd /code/build
-git init
-Initialized empty Git repository in /code/build/.git/
-git remote add me git@github.com:arvindsv/www.go.cd.git
-git fetch --depth 1 me
-From github.com:arvindsv/www.go.cd
