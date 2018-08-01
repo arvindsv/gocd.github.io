@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 01:31:10 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 01:27:43 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/blog/cd-considerations/feature-toggles-diagram-4a61a06d.png
    identical  build/assets/images/blog/cd-considerations/trunk-based-development-6995662e.png
    identical  build/assets/images/blog/pipeline-pattern-info/deployment-pipeline-pattern-infographic-3156c1d7.png
-   identical  build/assets/images/blog/continous-delivery-vs-deployment-infographic/continous-delivery-vs-deployment-infographic-hero-ab1ff875.png
-   identical  build/assets/images/blog/pipeline-pattern-info/pipeline-pattern-info-hero-ab1ff875.png
-   identical  build/assets/images/blog/cd-confession-gocd/continuous-delivery-confessions-gocd-5d3dbaab.png
-   identical  build/assets/images/blog/continous-delivery-vs-deployment-infographic/continuous-delivery-vs-continuous-deployment-infographic-305dd620.png
-   identical  build/assets/images/blog/deploy-now/security-badge-ac4cc5f1.png
-   identical  build/assets/images/blog/deploy-now/but_it_just_needs_recorded-8850667e.png
-   identical  build/assets/images/blog/continous-delivery-vs-deployment-infographic/continous-delivery-vs-deployment-infographic-5f550770.png
-   identical  build/assets/images/blog/deploy-now/but_it_just_needs_paint-11210336.png
-   identical  build/assets/images/blog/importance-cd-pipelines/Fast-Feedback-First-3e39eb55.png
-   identical  build/assets/images/blog/sample-virtualbox/vsm-v2-96349260.png
-   identical  build/assets/images/blog/deploy-now/continuous_delivery_security_testing_pipeline-af8f0e84.png
-   identical  build/assets/images/blog/deploy-now/but_it_just_needs_oven-6a40663e.png
