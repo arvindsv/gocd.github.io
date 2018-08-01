@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 13:50:36 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 13:47:17 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/getting-started/the-artifacts-tab-every-job-will-have-one-44b45466.png
    identical  build/assets/images/getting-started/materials-2a974162.png
    identical  build/assets/images/getting-started/check-that-the-material-exists-dcaf841d.png
-   identical  build/assets/images/getting-started/a-custom-tab-in-action-6bd08a14.png
-   identical  build/assets/images/getting-started/part-1/2-agents-page-ee212887.png
-   identical  build/assets/images/getting-started/part-1/5-step-2b-a50afb00.png
-   identical  build/assets/images/getting-started/part-1/6-step-3a-7189499d.png
-   identical  build/assets/images/getting-started/part-1/1gocd-new-pipeline-page-e94f7b2c.png
-   identical  build/assets/images/getting-started/part-1/9-pipeline-paused-0facb989.png
-   identical  build/assets/images/getting-started/part-1/15-job-run-details-e55dd48f.png
-   identical  build/assets/images/getting-started/part-1/7-step-3b-9bcde35c.png
-   identical  build/assets/images/getting-started/part-1/3-step-1-a772fe86.png
-   identical  build/assets/images/getting-started/part-1/10a-pipeline-building-dashboard-c22c699b.png
-   identical  build/assets/images/getting-started/part-1/14-environment-variables-34b793b1.png
-   identical  build/assets/images/getting-started/part-1/13-output-of-job-4fce197c.png
