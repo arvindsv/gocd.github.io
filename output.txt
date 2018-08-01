@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 12:43:44 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 12:40:24 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/go.cd_mailing-list-5daf2f9a.svg
    identical  build/assets/images/go.cd_roadmap-a4ec26c2.svg
    identical  build/assets/images/go.cd_join-community-939c83d9.svg
-   identical  build/assets/images/lightbox-close-3acf70e4.svg
-   identical  build/assets/images/getting-started/part-3/deployment-pipeline2-0a138975.svg
-   identical  build/assets/images/getting-started/part-3/deployment-pipeline1-19e8c39a.svg
-   identical  build/assets/images/getting-started/part-3/valuestreammap-in-gocd-fb09ba15.svg
-   identical  build/assets/images/getting-started/part-3/fan-out-b5681eff.svg
-   identical  build/assets/images/getting-started/part-2/gocd-pipeline-dependency-material-bd64c6f3.svg
-   identical  build/assets/images/getting-started/part-1/gocd-stage-jobs-tasks-2018-5399c80d.svg
-   identical  build/assets/images/getting-started/part-1/gocd-pipelines-materials-2018-3a418409.svg
-   identical  build/assets/images/getting-started/part-1/gocd-server-and-agents-2018-169513a1.svg
-   identical  build/assets/images/go.cd_form-cb660f66.svg
-   identical  build/assets/images/go.cd_user-documentation-36dc7dba.svg
-   identical  build/assets/images/icons/go.cd_code-for-gocd-61ebd40f.svg
