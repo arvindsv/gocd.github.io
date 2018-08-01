@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 00:19:08 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 00:15:42 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/texture-bg-35f0b9ad.jpg
    identical  build/assets/images/vms-build-time-7ae5af26.jpg
    identical  build/assets/images/blog/gocd-vs-spinnaker/gocd-vs-spinnaker-hero-66a667cb.jpg
-   identical  build/assets/images/texture-bg-2-9c21c423.jpg
-   identical  build/assets/images/blog/migrating-snapci-gocd/snapci-migrating-gocd-d04ddb52.jpg
-   identical  build/assets/images/blog/why-we-moved-from-go-cd-to-gocd-io/please-standy-by-8a8b64b2.jpg
-   identical  build/assets/images/blog/cd-confessions-mingle/cd-confessions-mingle-hero-2b7da0fe.jpg
-   identical  build/assets/images/blog/security-devops-minimizing-risk/security-devops-hero-3e9a0f07.jpg
-   identical  build/assets/images/blog/gocd-usage-analytics/usage-analytics-cb4affcc.jpg
-   identical  build/assets/images/blog/manage-build-versions/manage-build-versions-hero-c20cdce6.jpg
-   identical  build/assets/images/blog/thoughtworks-apax/thoughtworks-apax-hero-a5d5b1d4.jpg
-   identical  build/assets/images/blog/ci-theatre/ci-theatre-hero-ee863baa.jpg
-   identical  build/assets/images/blog/end-to-end-kubernetes/end-to-end-kubernetes-hero-a52d8df4.jpg
-   identical  build/assets/images/blog/thoughtworks-apax/thoughtworks-apax_announcement-78953733.jpg
-   identical  build/assets/images/blog/continuous-deployment-strategies/continuous-deployment-hero-9ab88d57.jpg
