@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 13:17:11 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 13:13:50 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/blog/build-propagation/build-propagation-hero-c6cae895.jpg
    identical  build/assets/images/blog/cd-hacks/cd-hacks-gocd-materials-a91363d7.jpg
    identical  build/assets/images/blog/continuous-deployment-strategies/continuous-deployment-hero-9ab88d57.jpg
-   identical  build/assets/images/blog/cd-considerations/5-consideration-microservices-gocd-12ad175f.jpg
-   identical  build/assets/images/blog/cd-considerations/cd-microservices-environment-strategy-0cce5b32.jpg
-   identical  build/assets/images/blog/blue-green/blue-green-hero-3f180508.jpg
-   identical  build/assets/images/blog/cd-considerations/tbd-feature-toggles-bcdf66d0.jpg
-   identical  build/assets/images/blog/importance-cd-pipelines/importance_pipelines_hero-58d38841.jpg
-   identical  build/assets/images/blog/cd-considerations/test-strategy-microservices-a668284d.jpg
-   identical  build/assets/images/blog/cd-considerations/configuration-strategy-95389633.jpg
-   identical  build/assets/images/blog/elastic-agents/elastic-agent-hero-995aca63.jpg
-   identical  build/assets/images/blog/cd-considerations/cd-microservices-configuration-strategy-95389633.jpg
-   identical  build/assets/images/blog/high-centered-team/sunkcosts_masthead-c1ddda92.jpg
-   identical  build/assets/images/blog/high-centered-team/truck-149df877.jpg
-   identical  build/assets/images/blog/no-one-agrees-define-ci-cd/deployment-wordcloud-5df3e112.jpg
