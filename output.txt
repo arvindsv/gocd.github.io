@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 15:00:31 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 14:57:10 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/releases/18.7.0/loading-screen-d4d02113.png
    identical  build/assets/images/releases/18.7.0/data-sharing-ae8581cb.png
    identical  build/assets/images/releases/18.3.0/plugin-error-warning-messages-0bbd0095.png
-   identical  build/assets/images/releases/18.3.0/new-dashboard-dd0bd431.png
-   identical  build/assets/images/releases/16.10/agents-page-old-9d4fe063.png
-   identical  build/assets/images/releases/16.10/agents-page-beta-29cf3ee0.png
-   identical  build/assets/images/releases/15.2/console-log-color-9cb3f569.png
-   identical  build/assets/images/releases/17.9.0/elastic-agent-grouping-by-plugin-id-3f70396b.png
-   identical  build/assets/images/releases/17.9.0/edit-pipeline-from-vsm-008fac52.png
-   identical  build/assets/images/releases/17.3.0/stage_with_symbols-4c8d52df.png
-   identical  build/assets/images/releases/17.3.0/build_status-96febef4.png
-   identical  build/assets/images/releases/17.3.0/elastic_agent_icon-1e562032.png
-   identical  build/assets/images/releases/16.9/quickeditpage-126e6d7a.png
-   identical  build/assets/images/releases/16.9/quickeditbutton-78e54c92.png
-   identical  build/assets/images/releases/18.2.0/new-dashboard-4720d938.png
