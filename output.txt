@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 12:57:10 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 12:53:48 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/campaign/chef/chef-hero-8c70c384.jpg
    identical  build/assets/images/campaign/elastic-agents/771--hero-0ca41611.jpg
    identical  build/assets/images/campaign/elastic-agents/elastic-agents-banner1-f33fbef8.jpg
-   identical  build/assets/images/campaign/elastic-agents/elastic-agents-banner-d74e12d9.jpg
-   identical  build/assets/images/campaign/jenkins/jenkins-hero-ca8f8af3.jpg
-   identical  build/assets/images/campaign/jenkins/jenkins-hero-3-04215858.jpg
-   identical  build/assets/images/campaign/kubernetes/k8s-bkgd-blk-58c33514.jpg
-   identical  build/assets/images/campaign/analytics/analytics-bkgd-d5ff6a49.jpg
-   identical  build/assets/images/campaign/kubernetes/k8s-bkgd-a3f53758.jpg
-   identical  build/assets/images/campaign/analytics/build_time-07eef676.jpg
-   identical  build/assets/images/go-banner-desktop-aac7fdc4.jpg
-   identical  build/assets/images/inner-banner-bg-5a21fadc.jpg
-   identical  build/assets/images/go-banner-phone-30701141.jpg
-   identical  build/assets/images/go-banner-tablet-b5881e67.jpg
-   identical  build/assets/images/go-banner-3de3d3a0.jpg
