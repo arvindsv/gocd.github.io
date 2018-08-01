@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 00:43:17 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 00:39:53 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/getting-started/initial-job-and-task-ad6e3eca.png
    identical  build/assets/images/getting-started/custom-command-ea9f5535.png
    identical  build/assets/images/getting-started/autocompletion-of-the-pipeline-dependency-material-351e8d25.png
-   identical  build/assets/images/timestamps-in-console-logs-example-eb317f14.png
-   identical  build/assets/images/getting-started/dependent-pipelines-in-a-valuestream-map-06de9ca9.png
-   identical  build/assets/images/getting-started/this-is-how-the-tasks-should-look-like-01685645.png
-   identical  build/assets/images/getting-started/job-run-details-b5eacb09.png
-   identical  build/assets/images/download/debian-caaee6dc.png
-   identical  build/assets/images/download/osx-f6878654.png
-   identical  build/assets/images/download/package-08ec8462.png
-   identical  build/assets/images/download/windows-fc098706.png
-   identical  build/assets/images/download/redhat-e885fd18.png
-   identical  build/assets/images/bg-pattern-470c69ee.png
-   identical  build/assets/images/campaign/cd101/cd101-banner-blank-4ef9359a.png
-   identical  build/assets/images/campaign/cd101/cd101-banner2-fed55b97.png
