@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 15:03:55 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 15:00:31 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/releases/17.11.0/pipeline-run-duration-in-vsm-4d3bffed.png
    identical  build/assets/images/releases/16.3/git-shallow-clone-e82e142c.png
    identical  build/assets/images/releases/17.11.0/vsm-explicit-link-dashboard-ca369c86.png
-   identical  build/assets/images/releases/17.11.0/vsm-explicit-link-vsm-4d3bffed.png
-   identical  build/assets/images/releases/17.11.0/vsm-explicit-link-stage-details-1590a797.png
-   identical  build/assets/images/releases/17.6.0/improve-timestamp-rendering-1-5a8314bf.png
-   identical  build/assets/images/releases/17.11.0/vsm-explicit-link-vsm-header-95afe224.png
-   identical  build/assets/images/releases/17.6.0/improve-timestamp-rendering-2-41be5dda.png
-   identical  build/assets/images/releases/17.11.0/vsm-explicit-link-job-details-header-41ce0456.png
-   identical  build/assets/images/releases/15.3/update-check-info-e75610b1.png
-   identical  build/assets/images/releases/17.6.0/rerun-failed-jobs-182f21d2.png
-   identical  build/assets/images/releases/15.3/update-check-bell-224e93de.png
-   identical  build/assets/images/releases/18.7.0/loading-screen-d4d02113.png
-   identical  build/assets/images/releases/18.7.0/data-sharing-ae8581cb.png
-   identical  build/assets/images/releases/18.3.0/plugin-error-warning-messages-0bbd0095.png
