@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 12:47:07 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 12:43:44 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/dld-win-fa0f769a.svg
    identical  build/assets/images/go.cd_Model-complex-workflows-0eb00251.svg
    identical  build/assets/images/go.cd_Compare-Builds-33d3164a.svg
-   identical  build/assets/images/go.cd_user-group-a35f5dac.svg
-   identical  build/assets/images/go.cd_elliminates-bottlenecks-2d9caee6.svg
-   identical  build/assets/images/go.cd_code-5d7d3f74.svg
-   identical  build/assets/images/dld-deb-c037d30e.svg
-   identical  build/assets/images/blog/java-announcements/OpenJDK_logo-9596ed5b.svg
-   identical  build/assets/images/blog/gocd-kubernetes-helm-chart/GoCD-deploying-kubernetes-0635fbee.svg
-   identical  build/assets/images/blog/gocd-kubernetes-helm-chart/kubernetes-cluster-agents-c15ee8f8.svg
-   identical  build/assets/images/blog/issues/Circle-icons-caution-c3010dc6.svg
-   identical  build/assets/images/go.cd_fork-e81f9737.svg
-   identical  build/assets/images/go.cd_mailing-list-5daf2f9a.svg
-   identical  build/assets/images/go.cd_roadmap-a4ec26c2.svg
-   identical  build/assets/images/go.cd_join-community-939c83d9.svg
