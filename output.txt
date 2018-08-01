@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 10:27:10 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 10:23:51 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
      updated  build/2018/07/17/gocd-materials-blacklisting-whitelisting.html
      updated  build/2015/11/18/Open-Source-Tests.html
      updated  build/2017/10/10/architecting-continuous-delivery.html
-     updated  build/2015/08/05/Go-Sample-Virtualbox.html
-     updated  build/2016/01/25/are-you-ready-for-continuous-delivery.html
-     updated  build/2018/07/31/cd-microservices-configuration-strategy.html
-     updated  build/2016/01/17/not-done-unless-its-done.html
-     updated  build/2014/08/07/go-webinar-recording.html
-     updated  build/2017/03/01/importance-and-principles-of-cd-pipelines.html
-     updated  build/2015/09/01/visibility-is-opportunity.html
-     updated  build/2014/07/01/What-would-help-you.html
-     updated  build/2014/04/24/source-code-for-go-now-available.html
-     updated  build/2017/11/14/minimizing-risk-improving-security-devops.html
-     updated  build/2014/03/06/hello-world-with-go.html
-     updated  build/2017/07/18/continuous-deployment-strategies.html
