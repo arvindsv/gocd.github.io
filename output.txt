@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 14:43:49 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 14:40:29 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/blog/go_14_1_announcement/1_Without_Curl-f0795e21.png
    identical  build/assets/images/blog/go_14_1_announcement/2_With_Curl-ccd04a54.png
    identical  build/assets/images/blog/sriram-peg1_0-6dafffb1.png
-   identical  build/assets/images/blog/using-windows-powershell-tasks/PowerShell_5.0_icon-af7bd014.png
-   identical  build/assets/images/blog/sriram-buildpromo1-1cbd5825.png
-   identical  build/assets/images/blog/mark-failfast4-af0026ee.png
-   identical  build/assets/images/blog/go-moving-to-open-source/gocd-website-as-of-feb-2014-from-archive.org-214753b0.png
-   identical  build/assets/images/blog/gocd-usage-analytics/gocd-settings-3b53fce9.png
-   identical  build/assets/images/blog/gocd-usage-analytics/notification-773fb524.png
-   identical  build/assets/images/blog/mark-failfast1-076157dd.png
-   identical  build/assets/images/blog/sriram-package1-8fa6fb41.png
-   identical  build/assets/images/blog/mark-failfast3-3b0c6e47.png
-   identical  build/assets/images/blog/java-announcements/Duke_Wave-e8fff48c.png
-   identical  build/assets/images/blog/agents-environments/agents-environments-hero-1ab3d2e8.png
-   identical  build/assets/images/blog/how-implement-continuous-delivery-enterprise-java-middleware/summary_image-9864dd87.png
