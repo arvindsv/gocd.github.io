@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 13:33:56 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 13:30:36 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/blog/build-propagation/pipeline-dependencies-64bb4fc3.jpeg
    identical  build/assets/images/blog/are-you-ready-for-continuous-delivery/woodline-02b5f243.jpeg
    identical  build/assets/images/blog/build-propagation/fan-in-fan-out-774eac6e.jpeg
-   identical  build/assets/images/blog/cd-hacks/material-blacklisting-5d8fd8c0.jpeg
-   identical  build/assets/images/blog/blue-green/dns-9ac8588f.jpeg
-   identical  build/assets/images/blog/cd-considerations/cd-considerations/environments-plan-e0ff13b0.jpeg
-   identical  build/assets/images/blog/cd-considerations/cd-considerations/test-strategy-0cde2295.jpeg
-   identical  build/assets/images/blog/blue-green/load-balancer-1a3e2b12.jpeg
-   identical  build/assets/images/blog/cd-considerations/managing-configuration-6efe2f64.jpeg
-   identical  build/assets/images/blog/cd-considerations/cd-considerations/hotfix-process-fef37152.jpeg
-   identical  build/assets/images/blog/cd-considerations/test-strategy-0cde2295.jpeg
-   identical  build/assets/images/blog/cd-considerations/hotfix-process-fef37152.jpeg
-   identical  build/assets/images/blog/cd-considerations/environments-plan-e0ff13b0.jpeg
-   identical  build/assets/images/blog/importance-cd-pipelines/magic-364edd88.jpeg
-   identical  build/assets/images/blog/serverless-continuous-delivery/traditional-vs-serverless-ee2afc44.jpeg
