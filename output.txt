@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 12:27:08 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 12:23:45 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/go.cd_other-resources-50299cf1.svg
    identical  build/assets/images/go.cd_promoted-trusted-artifacts-211c04a4.svg
    identical  build/assets/images/go.cd_test-gocd-d32d8061.svg
-   identical  build/assets/images/favicon.ico
-   identical  build/assets/vendor/fonts/urw-geometric/354267_1_0-51a92b9d.woff
-   identical  build/assets/images/go.cd_blog-about-gocd-cbc119dd.svg
-   identical  build/assets/images/dld-osx-034941e1.svg
-   identical  build/assets/vendor/fonts/urw-geometric/354267_0_0-57006eeb.woff
-   identical  build/assets/vendor/fonts/urw-geometric/354267_3_0-fd2732ed.woff
-   identical  build/assets/font-awesome/fontawesome-webfont-98a8aa5c.svg
-   identical  build/assets/vendor/fonts/urw-geometric/354267_3_0-f96616d0.woff2
-   identical  build/assets/vendor/fonts/urw-geometric/354267_2_0-fac64df6.woff
-   identical  build/assets/vendor/fonts/urw-geometric/354267_2_0-2a4682f3.woff2
-   identical  build/assets/vendor/fonts/urw-geometric/354267_1_0-bf841131.woff2
-   identical  build/assets/vendor/fonts/urw-geometric/354267_0_0-dbf86f28.woff2
