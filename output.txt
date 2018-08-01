@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 14:20:28 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 14:17:08 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/blog/run-x-instance/8-b478f0af.png
    identical  build/assets/images/blog/run-x-instance/10-fe33e252.png
    identical  build/assets/images/blog/run-x-instance/4-9650ff39.png
-   identical  build/assets/images/blog/run-x-instance/4-2-53ddc6c0.png
-   identical  build/assets/images/blog/run-x-instance/5-6da0dd74.png
-   identical  build/assets/images/blog/run-x-instance/7-016f6a36.png
-   identical  build/assets/images/blog/run-x-instance/6-40adc5ae.png
-   identical  build/assets/images/blog/run-x-instance/1-021212d2.png
-   identical  build/assets/images/blog/run-x-instance/3-41b700d0.png
-   identical  build/assets/images/blog/manage-agents-with-docker/small_h-7876947e.png
-   identical  build/assets/images/blog/github-integration/github-issue-link-in-build-cause-e5aa4891.png
-   identical  build/assets/images/blog/github-integration/github-issues-integration-639bff5d.png
-   identical  build/assets/images/blog/product-manager-guide/go-cd-continuous-integration-0f4a50c1.png
-   identical  build/assets/images/blog/run-x-instance/2-9cb7bf31.png
-   identical  build/assets/images/blog/product-manager-guide/go-cd-continuous-deployment-4d9c957d.png
