@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 15:13:53 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 15:10:34 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ From github.com:arvindsv/www.go.cd
 git reset --hard me/gh-pages
 HEAD is now at c8a6f96 Update output
 cd -
-mv /code/build/.git /tmp/d20180731-3443-1dl00db
-cd /code
-bundle exec middleman build --clean
-DEPRECATION WARNING on line 22, column 11 of /usr/local/bundle/gems/neat-2.1.0/core/neat/mixins/_grid-container.scss:
-Unescaped multiline strings are deprecated and will be removed in a future version of Sass.
-To include a newline in a string, use "\a" or "\a " as in CSS.
-
-DEPRECATION WARNING on line 19 of /usr/local/bundle/gems/neat-2.1.0/core/neat/functions/_neat-column-width.scss:
-The result of `0px == 0` will be `false` in future releases of Sass.
-Unitless numbers will no longer be equal to the same numbers with units.
-
-DEPRECATION WARNING on line 19 of /usr/local/bundle/gems/neat-2.1.0/core/neat/functions/_neat-column-width.scss:
