@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 01:00:21 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 00:56:58 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/getting-started/part-3/3-vsm-of-build-pipeline-8b12b538.png
    identical  build/assets/images/getting-started/part-2/8-artifacts-tab-2a423239.png
    identical  build/assets/images/getting-started/pipeline-building-17e80a92.png
-   identical  build/assets/images/getting-started/part-3/2-vsm-of-production-pipeline-80c78046.png
-   identical  build/assets/images/getting-started/image17-dc293a0b.png
-   identical  build/assets/images/getting-started/part-2/7-adding-artifact-977cd8a3.png
-   identical  build/assets/images/getting-started/part-2/9-contents-of-artifact-52748cf0.png
-   identical  build/assets/images/getting-started/part-2/4-create-downstream-pipeline-ae7713c5.png
-   identical  build/assets/images/getting-started/part-2/3-autocompletion-pipeline-material-1737f4e3.png
-   identical  build/assets/images/getting-started/part-2/6-value-stream-map-8a14c25b.png
-   identical  build/assets/images/getting-started/part-2/14-tasks-should-look-like-this-b45c1798.png
-   identical  build/assets/images/getting-started/part-2/15-output-of-fetched-artifact-974958e8.png
-   identical  build/assets/images/getting-started/part-2/12-move-the-fetch-artifact-to-top-18eeeed5.png
-   identical  build/assets/images/getting-started/part-2/17-fetch-from-ancestor-pipeline-074da703.png
-   identical  build/assets/images/getting-started/part-2/16-ancestor-artifacts-vsm-142de56a.png
