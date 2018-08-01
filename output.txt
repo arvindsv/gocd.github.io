@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 13:30:36 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 13:27:16 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/blog/cd-considerations/environments-plan-e0ff13b0.jpeg
    identical  build/assets/images/blog/importance-cd-pipelines/magic-364edd88.jpeg
    identical  build/assets/images/blog/serverless-continuous-delivery/traditional-vs-serverless-ee2afc44.jpeg
-   identical  build/assets/images/blog/cd-confession-gocd/automate-everything-gocd-e047261e.jpeg
-   identical  build/assets/images/blog/hotfix-rollback/prod-pipeline-hotfix-stage-5455face.jpeg
-   identical  build/assets/images/blog/hotfix-rollback/deployment-pipeline-hotfix-3d31bdb3.jpeg
-   identical  build/assets/images/blog/importance-cd-pipelines/build-reuse-83ab8b4a.jpeg
-   identical  build/assets/images/blog/elastic-agents/parallelize-9e407871.jpeg
-   identical  build/assets/images/blog/reusing-pipelines/simplified-version-62879135.jpeg
-   identical  build/assets/images/home/pipe_bkgd-564e4ebb.jpg
-   identical  build/assets/images/blog/reusing-pipelines/introducing-template-2a3da5c1.jpeg
-   identical  build/assets/images/screenshots/thumb/value-stream-map-thumb-42a9868b.jpg
-   identical  build/assets/images/contact-section-background-a4da15b4.jpg
-   identical  build/assets/images/go-banner-1-904dd546.jpg
-   identical  build/assets/images/pipeline_subscribe-028c93fa.jpg
