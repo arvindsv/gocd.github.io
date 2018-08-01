@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 12:33:46 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 12:30:27 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/campaign/enterprise/adblock-6fed935d.svg
    identical  build/assets/images/campaign/enterprise/support-8ca9a904.svg
    identical  build/assets/images/campaign/enterprise/security-2897cd2a.svg
-   identical  build/assets/images/campaign/enterprise/ui_illo_commercial_2-1db00c77.svg
-   identical  build/assets/images/campaign/enterprise/business-611be55b.svg
-   identical  build/assets/images/campaign/enterprise/ui_illo_commercial-01-b56ec8fd.svg
-   identical  build/assets/images/campaign/elastic-agents/icons_plug-point-c55b9041.svg
-   identical  build/assets/images/campaign/elastic-agents/icons_tick-28de127f.svg
-   identical  build/assets/images/campaign/elastic-agents/icons_plug-15f84b59.svg
-   identical  build/assets/images/campaign/kubernetes/ui_illo_commercial_2-8ea6f1e8.svg
-   identical  build/assets/images/campaign/kubernetes/k8s-diagram-c15ee8f8.svg
-   identical  build/assets/images/campaign/analytics/bottleneck-c33a85e4.svg
-   identical  build/assets/images/campaign/analytics/analytics-c0b6b3e9.svg
-   identical  build/assets/images/campaign/analytics/status-cb7bd755.svg
-   identical  build/assets/images/go.cd_community-a7895dc9.svg
