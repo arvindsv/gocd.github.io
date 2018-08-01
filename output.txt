@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 01:14:04 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 01:10:39 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/blog/feature-branch/replace-material-1-0c4f6bbf.png
    identical  build/assets/images/blog/feature-branch/replace-material-2-afc048ab.png
    identical  build/assets/images/blog/feature-branch/trigger-build-aa3c586e.png
-   identical  build/assets/images/blog/feature-branch/update-status-1-b1d0e5b3.png
-   identical  build/assets/images/blog/feature-branch/setup-90ad35f1.png
-   identical  build/assets/images/blog/feature-branch/update-status-2-f94045e6.png
-   identical  build/assets/images/blog/feature-branch/plugins-loaded-9903d601.png
-   identical  build/assets/images/blog/feature-branch/failed-build-bb7a251d.png
-   identical  build/assets/images/blog/feature-branch/vsm-59138517.png
-   identical  build/assets/images/blog/upcoming-API-changes/summary_image-40154615.png
-   identical  build/assets/images/blog/feature-branch/extract-template-cfd29320.png
-   identical  build/assets/images/blog/feature-branch/with_prs-6626da92.png
-   identical  build/assets/images/blog/getting-started-resources/summary_image-8d195d0a.png
-   identical  build/assets/images/blog/pipeline-patterns/testing-failures-f00335a2.png
-   identical  build/assets/images/blog/pipeline-patterns/upload-artifact-9e796eb7.png
