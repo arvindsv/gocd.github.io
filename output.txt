@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 01:52:03 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 01:48:35 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/go-gauge-report-54cc286b.png
    identical  build/assets/images/screenshots/console-timestamp-5541d6ce.png
    identical  build/assets/images/author-placeholder-b138532c.png
-   identical  build/assets/images/image03-da3d56f1.png
-   identical  build/assets/images/go-cd-QA-pipeline-64230cf5.png
-   identical  build/assets/images/plugins-4ae2cffd.png
-   identical  build/assets/images/Go_logo-063a2295.png
-   identical  build/assets/images/image02-7cb7c1f3.png
-   identical  build/assets/images/blog/gocd-vs-spinnaker/spinnaker-pipeline-bee01f81.png
-   identical  build/assets/images/image07-77a88407.png
-   identical  build/assets/images/blog/gocd-vs-spinnaker/gocd-vsm-e76668b8.png
-   identical  build/assets/images/blog/cd-confessions-mingle/feedback-loops-a69c8139.png
-   identical  build/assets/images/blog/Permissions1-0658062a.png
-   identical  build/assets/images/image10-554cdcff.png
-   identical  build/assets/images/blog/hello-world-with-go/media_1394063534943-251780ef.png
