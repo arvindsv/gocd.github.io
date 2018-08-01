@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 12:20:27 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 12:17:08 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/vendor/fonts/opensans/v13/k3k702ZOKiLJc3WVjuplzInF5uFdDttMLvmWuJdhhgs-f750cc9c.ttf
    identical  build/assets/vendor/fonts/urw-geometric/354267_3_0-6202abe7.eot
    identical  build/assets/vendor/fonts/urw-geometric/354267_2_0-1547b637.eot
-   identical  build/assets/vendor/fonts/urw-geometric/354267_1_0-13cd3e72.eot
-   identical  build/assets/font-awesome/fontawesome-webfont-13b1eab6.ttf
-   identical  build/assets/vendor/fonts/urw-geometric/354267_0_0-508f35cf.eot
-   identical  build/assets/font-awesome/fontawesome-webfont-d980c2ce.eot
-   identical  build/assets/javascripts/help-54dab0a2.js
-   identical  build/assets/javascripts/marketo_popover-2ee090ae.js
-     updated  build/index.html
-     updated  build/videos/index.html
-     updated  build/misc/generate-patched-jar-for-deserialization-vulnerability/index.html
-     updated  build/cd101/index.html
-     updated  build/sales-sign-up/index.html
-     updated  build/enterprise-campaign/index.html
