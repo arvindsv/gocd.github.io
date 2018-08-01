@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 00:53:33 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 00:50:07 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/getting-started/configuring-a-custom-tab-894db0c5.png
    identical  build/assets/images/getting-started/build-pipeline-ae429bf1.png
    identical  build/assets/images/getting-started/stage-information-0040c9a6.png
-   identical  build/assets/images/getting-started/display-the-contents-of-the-fetched-artifact-6c894245.png
-   identical  build/assets/images/getting-started/env-variables-322e76d2.png
-   identical  build/assets/images/getting-started/agents-5dab5e8b.png
-   identical  build/assets/images/getting-started/the-details-can-be-autocompleted-20f3be0c.png
-   identical  build/assets/images/getting-started/gateways-to-VSM-e9ae0c02.png
-   identical  build/assets/images/getting-started/fetching-artifacts-from-ancestor-pipelines-c5ce9341.png
-   identical  build/assets/images/getting-started/the-output-the-artifact-is-fetched-and-displayed-9191ccc5.png
-   identical  build/assets/images/getting-started/Pipeline-Configuration-page-3be2877e.png
-   identical  build/assets/images/getting-started/move-the-fetch-artifact-task-to-the-top-68961f7f.png
-   identical  build/assets/images/getting-started/production-pipeline-5136d4e0.png
-   identical  build/assets/images/getting-started/create-the-downstream-pipeline-c13b4e17.png
-   identical  build/assets/images/getting-started/check-that-the-material-exists-dcaf841d.png
