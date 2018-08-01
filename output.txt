@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 01:17:26 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Wed Aug  1 01:14:04 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/blog/manage-agents-with-docker/small_h-7876947e.png
    identical  build/assets/images/blog/run-x-instance/1-021212d2.png
    identical  build/assets/images/blog/run-x-instance/3-41b700d0.png
-   identical  build/assets/images/blog/github-integration/github-issue-link-in-build-cause-e5aa4891.png
-   identical  build/assets/images/blog/github-integration/github-issues-integration-639bff5d.png
-   identical  build/assets/images/blog/product-manager-guide/go-cd-continuous-integration-0f4a50c1.png
-   identical  build/assets/images/blog/github-integration/github-issue-link-in-compare-pipeline-2f73a0c6.png
-   identical  build/assets/images/blog/product-manager-guide/go-cd-continuous-delivery-6041ff84.png
-   identical  build/assets/images/blog/product-manager-guide/go-cd-before-devops-e2b4d0e9.png
-   identical  build/assets/images/blog/product-manager-guide/go-cd-continuous-deployment-4d9c957d.png
-   identical  build/assets/images/blog/product-manager-guide/go-cd-after-devops-a582c350.png
-   identical  build/assets/images/blog/feature-branch/mature-ci-cd-setup-f94937bf.png
-   identical  build/assets/images/blog/feature-branch/replace-material-1-0c4f6bbf.png
-   identical  build/assets/images/blog/feature-branch/replace-material-2-afc048ab.png
-   identical  build/assets/images/blog/feature-branch/trigger-build-aa3c586e.png
