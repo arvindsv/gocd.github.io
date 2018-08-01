@@ -1,5 +1,17 @@
 
 
+Run at: Wed Aug  1 00:01:57 UTC 2018
+====================================
+
+
+Fetching changes: git fetch --multiple me up ck
+------
+Fetching me
+Fetching up
+Fetching ck
+Nothing to update. Site version of http://arvindsv.github.io/www.go.cd/ and latest commit in https://github.com/Chandu199/www.go.cd/tree/geting_started_experience_updated are both at: 839308ac2ace687e6dc691babcba86952e05f685
+
+
 Run at: Tue Jul 31 23:58:31 UTC 2018
 ====================================
 
@@ -4986,15 +4998,3 @@ Unitless numbers will no longer be equal to the same numbers with units.
    identical  build/assets/images/blog/reusing-pipelines/reusing-pipelines-hero-6de82f68.jpg
    identical  build/assets/images/blog/pipelines-as-code/pipelines-as-code-hero-a3209f2b.jpg
    identical  build/assets/images/blog/canary-releases/canary-releases-hero-6370dec9.jpg
-   identical  build/assets/images/blog/gocd-kubernetes-helm-chart/gocd-kubernetes-helm-chart-hero-71d9973f.jpg
-   identical  build/assets/images/blog/continuous-delivery-101/continuous-delivery-101-part4-hero-d6b73c08.jpg
-   identical  build/assets/images/blog/gocd-jenkins/gocd-over-jenkins-hero-e727f77f.jpg
-   identical  build/assets/images/blog/forever-home/forever-home-hero-640e2d7a.jpg
-   identical  build/assets/images/blog/continuous-delivery-101/continuous-delivery-101-part5-hero-3db5a75f.jpg
-   identical  build/assets/images/blog/continuous-delivery-101/continuous-delivery-101-part3-hero-a7e89092.jpg
-   identical  build/assets/images/blog/continuous-delivery-101/continuous-delivery-101-part2-hero-c606477c.jpg
-   identical  build/assets/images/blog/how-to-avoid-brittle-code/how-to-avoid-brittle-code-083942f0.jpg
-   identical  build/assets/images/blog/continuous-delivery-101/continuous-delivery-101-part1-hero-16be1e69.jpg
-   identical  build/assets/images/halftone_gradient_background-9042b7fc.jpg
-   identical  build/assets/images/videos/go-pipeline-visibility-9e2c5d77.jpg
-   identical  build/assets/images/blog/architecting-continuous-delivery/architecting-continuous-delivery-hero-25ac88c4.jpg
