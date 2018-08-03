@@ -1,9 +1,9 @@
-Last updated: 2018-07-31 16:02:58 +0000
+Last updated: 2018-08-03 03:17:20 +0000
 
 Latest commit:
-    commit 5d79fa05d1c347d0579a17a1afb87caa10f7ad5a
-    Author: Aravind SV <mail@arvindsv.com>
-    Date:   Tue Jul 31 11:56:13 2018 -0400
+    commit 29969b587a689d9086ae1894b9a0e337bd831ea9
+    Author: Chandu199 <n.chandrakanth0@gmail.com>
+    Date:   Thu Aug 2 15:53:44 2018 +0530
     
-        Temp hack to get past the CORS checks on preview
+        fine tuning styles
     
