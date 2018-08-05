@@ -15,8 +15,8 @@
 
     <title>Download for Free - Server and Agent | GoCD</title>
     <link href="assets/images/favicon.ico" rel="shortcut icon" />
-    <link href="assets/stylesheets/site-2a81f597.css" rel="stylesheet" />
-    <script src="assets/javascripts/all-0dea7fbe.js"></script>
+    <link href="assets/stylesheets/site-7142c68a.css" rel="stylesheet" />
+    <script src="assets/javascripts/all-657dbcf5.js"></script>
     
     <link rel="alternate" type="application/atom+xml" title="GoCD blog feed" href="feed.xml" />
     <script>
@@ -137,9 +137,8 @@
 
         <div id="downloads"></div>
       </div>
-      <div class="col-sm-4 col-lg-3 col-md-3">
-      
 
+      <div class="col-sm-4 col-lg-3 col-md-3">
         <div class='subscribe-to-blog blogpost'>
           <h3 class='subscribe-title'>Want updates about GoCD releases?</h3>
           <p>Subscribe to the GoCD Release Bulletin for monthly email updates on the latest GoCD releases.</p>
@@ -162,7 +161,8 @@
   <li>
     <a href="https://docs.gocd.org/current/installation/install/server/{{os}}.html"  target="_blank">Server Installation Instructions</a>
   </li>
-  <li><a href="https://docs.gocd.org/current/installation/install/agent/{{os}}.html"  target="_blank">Agent Installation Instructions</a>
+  <li>
+    <a href="https://docs.gocd.org/current/installation/install/agent/{{os}}.html"  target="_blank">Agent Installation Instructions</a>
   </li>
   {{/if}}
 </script>
@@ -207,15 +207,17 @@
         </div>
       </div>
     </div>
-  
+
     <div class="steps-section">
       <h3>Recommended Installation </h3>
       <ul class="recommended-list">
         <li>1. Select your OS</li>
         <li>2. Download latest Stable Server</li>
         <li>3. Download latest Stable Agent</li>
-        <li>4. Install Server <a href="#">GoCD Server Installation Instructions</a> </li>
-        <li>5. Install Agent  (link to docs) <a href="#">GoCD Agent Installation Instructions</a></li>
+        {{#if os_type}}
+          <li>4. Install Server <a href="https://docs.gocd.org/current/installation/install/server/{{os_type}}.html"  target="_blank">GoCD Server Installation Instructions</a> </li>
+          <li>5. Install Agent <a href="https://docs.gocd.org/current/installation/install/agent/{{os_type}}.html"  target="_blank">GoCD Agent Installation Instructions</a></li>
+        {{/if}}
         <li>6.
             <ul class="recommended-list_child">
               <li>If this your first time using GoCD, we recommend following our <a href="#">Intro to GoCD</a> guide</li>
@@ -223,8 +225,8 @@
             </ul>
         </li>
       </ul>
-      <p><a href="#"> Release Notes</a></p>
-      <p><a href="#">System Requirements</a></p>
+      <p><a href="/releases/index.html" target="_blank"> Release Notes</a></p>
+      <p><a href="https://docs.gocd.org/current/installation/system_requirements.html" target="_blank">System Requirements </a></p>
     </div>
 
     <div class="other-releases">
@@ -461,15 +463,15 @@
     <div class="tab_container tab-container-marker">
      <h2 class="installer-type">OS Types</h2>
       <h3 class="tab-marker tab-accordion_heading dld-win" rel="tab-windows">Windows</h3>
-      {{> show-releases-for-installer-type installer_type="win" heading="Windows" tab_id="tab-windows"}}
+      {{> show-releases-for-installer-type installer_type="win" os_type="windows" heading="Windows" tab_id="tab-windows"}}
       <h3 class="tab-marker tab-accordion_heading dld-osx" rel="tab-osx">OSX</h3>
-      {{> show-releases-for-installer-type installer_type="osx" heading="OSX" tab_id="tab-osx"}}
+      {{> show-releases-for-installer-type installer_type="osx" os_type="osx" heading="OSX" tab_id="tab-osx"}}
       <h3 class="tab-marker tab-accordion_heading dld-deb" rel="tab-debian">Debian/APT</h3>
-      {{> show-releases-for-installer-type installer_type="deb" heading="Debian" tab_id="tab-debian"}}
+      {{> show-releases-for-installer-type installer_type="deb" os_type="linux" heading="Debian" tab_id="tab-debian"}}
       <h3 class="tab-marker tab-accordion_heading dld-rpm" rel="tab-redhat">RPM/YUM</h3>
-      {{> show-releases-for-installer-type installer_type="rpm" heading="RPM" tab_id="tab-redhat"}}
+      {{> show-releases-for-installer-type installer_type="rpm" os_type="linux" heading="RPM" tab_id="tab-redhat"}}
       <h3 class="tab-marker tab-accordion_heading dld-zip" rel="tab-zip">Zip</h3>
-      {{> show-releases-for-installer-type installer_type="generic" heading="Zip" tab_id="tab-zip"}}
+      {{> show-releases-for-installer-type installer_type="generic" os_type="zip" heading="Zip" tab_id="tab-zip"}}
       <h2 class="installer-type cloud">Cloud Providers</h2>
       <h3 class="tab-marker tab-accordion_heading dld-ami" rel="tab-ami">AMIs</h3>
       {{> show-amis installer_type="ami" tab_id="tab-ami"}}

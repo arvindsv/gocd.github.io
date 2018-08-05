@@ -1,9 +1,9 @@
-Last updated: 2018-08-03 03:17:20 +0000
+Last updated: 2018-08-05 04:37:43 +0000
 
 Latest commit:
-    commit 29969b587a689d9086ae1894b9a0e337bd831ea9
+    commit ba9ac9645eaea8214de67afb74e51aac91236cd9
     Author: Chandu199 <n.chandrakanth0@gmail.com>
-    Date:   Thu Aug 2 15:53:44 2018 +0530
+    Date:   Fri Aug 3 19:21:34 2018 +0530
     
-        fine tuning styles
+        added icon for external links
     
