@@ -1,9 +1,9 @@
-Last updated: 2018-08-05 04:37:43 +0000
+Last updated: 2018-08-06 21:08:30 +0000
 
 Latest commit:
-    commit ba9ac9645eaea8214de67afb74e51aac91236cd9
+    commit c2eb16745ad1be6c4d20e63d1c6f2589b33f112e
     Author: Chandu199 <n.chandrakanth0@gmail.com>
-    Date:   Fri Aug 3 19:21:34 2018 +0530
+    Date:   Mon Aug 6 11:26:03 2018 +0530
     
-        added icon for external links
+        removed Installation block from sidebar in getting started page
     
