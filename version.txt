@@ -1,9 +1,9 @@
-Last updated: 2018-08-06 21:28:02 +0000
+Last updated: 2018-08-07 16:22:00 +0000
 
 Latest commit:
-    commit fb29aec65db75f8f645193df4c8feda2d14dda93
-    Author: Aravind SV <mail@arvindsv.com>
-    Date:   Tue Aug 7 02:55:30 2018 +0530
+    commit 61fa83476ee44677059c8423fb99968c048030d6
+    Author: Chandu199 <n.chandrakanth0@gmail.com>
+    Date:   Tue Aug 7 14:26:46 2018 +0530
     
-        Fix links
+        fix on menu fix in ipad size 768px where menu disappears. Fixed media query
     
