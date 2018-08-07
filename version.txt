@@ -1,9 +1,5 @@
-Last updated: 2018-08-07 16:22:00 +0000
+The new preview site for the website changes is at: https://chandu199.github.io/www.go.cd
 
-Latest commit:
-    commit 61fa83476ee44677059c8423fb99968c048030d6
-    Author: Chandu199 <n.chandrakanth0@gmail.com>
-    Date:   Tue Aug 7 14:26:46 2018 +0530
-    
-        fix on menu fix in ipad size 768px where menu disappears. Fixed media query
-    
+The deployed version can be found at: https://chandu199.github.io/www.go.cd/version.txt
+
+The branch being tracked is: https://github.com/Chandu199/www.go.cd/commits/geting_started_experience_updated
