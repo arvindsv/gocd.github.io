@@ -3,3 +3,5 @@ The new preview site for the website changes is at: https://chandu199.github.io/
 The deployed version can be found at: https://chandu199.github.io/www.go.cd/version.txt
 
 The branch being tracked is: https://github.com/Chandu199/www.go.cd/commits/geting_started_experience_updated
+
+The build for that is at: https://build.gocd.org/go/tab/pipeline/history/temp-website-for-design-team
